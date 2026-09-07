@@ -1,4 +1,4 @@
-# ⚕️ Diabeta AI — Diabetes RAG Screening
+# ⚕️ Diabeta AI (Diabetes RAG Screening)
 
 A Retrieval-Augmented Generation assistant that answers Indonesian Type 2 Diabetes guideline questions with cited sources, plus a rule-based diabetes risk screening calculator.
 
@@ -9,7 +9,14 @@ A Retrieval-Augmented Generation assistant that answers Indonesian Type 2 Diabet
 - Live app: https://diabeta-ai-01bd8.containers.snapdeploy.app
 
 ## 📚 Tech stack
-Python · FastAPI · LangChain · FAISS · Groq (gpt-oss-120b) · OpenAI SDK · Docker · HTML/CSS/JS
+- Python 
+- FastAPI
+- LangChain 
+- FAISS 
+- Groq (gpt-oss-120b) 
+- OpenAI SDK 
+- Docker
+- HTML/CSS/JS
 
 ## 👩🏻‍💻 My Role
 Team of 3 (development happened outside GitHub, so this repo shows a single contributor). My role: AI/ML Engineer: built the RAG pipeline (PDF ingestion, chunking, embedding, FAISS retrieval, grounded bilingual prompting) and the rule-based risk-screening calculator, and migrated LLM providers with zero impact to retrieval.
