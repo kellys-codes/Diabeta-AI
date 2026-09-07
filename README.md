@@ -21,7 +21,7 @@ A Retrieval-Augmented Generation assistant that answers Indonesian Type 2 Diabet
 ## 👩🏻‍💻 My Role
 Team of 3 (development happened outside GitHub, so this repo shows a single contributor). My role: AI/ML Engineer: built the RAG pipeline (PDF ingestion, chunking, embedding, FAISS retrieval, grounded bilingual prompting) and the rule-based risk-screening calculator, and migrated LLM providers with zero impact to retrieval.
 
-## Features
+## 🚀 Features
 - **Guideline Q&A (RAG):** answers diabetes questions with citations (source doc, page, snippet) in English or Bahasa Indonesia.
 - **Risk Screening:** rule-based score from age, BMI, family history, and symptoms → Low/Moderate/High risk.
 - **Prompt-engineered chatbot:** handles general diabetes questions.
