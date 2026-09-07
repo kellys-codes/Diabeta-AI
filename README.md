@@ -1,146 +1,31 @@
-# ⚕️Diabeta AI (Diabetes RAG Screening)
+# ⚕️ Diabeta AI — Diabetes RAG Screening
 
-A **Retrieval-Augmented Generation (RAG)** assistant for Indonesian Type 2 Diabetes guideline Q&A plus a simple, rule-based **pre-diabetes / Diabetes risk screening** calculator.
+A Retrieval-Augmented Generation assistant that answers Indonesian Type 2 Diabetes guideline questions with cited sources, plus a rule-based diabetes risk screening calculator.
 
-> ⚠️ **Medical Disclaimer**
-> This tool is for **research and learning only**. It is **not clinically validated** and must **not** be used as medical advice, diagnosis, or treatment. For clinical decisions, consult a licensed healthcare professional.
-
-## 👩‍💻 My Role
-AI/ML Engineer: Built the RAG pipeline (PDF ingestion, chunking, embedding, FAISS retrieval, grounded bilingual prompting) and rule-based risk-screening calculator, and migrated LLM providers with zero impact to retrieval.
-
-## 📚 Tech stack
-- **Backend:** Python 3.11, FastAPI, Uvicorn, Pydantic
-- **AI/RAG:** LangChain, FastEmbed, FAISS, Groq (gpt-oss-120b), OpenAI SDK, pypdf, huggingface_hub
-- **Frontend:** HTML, CSS, JavaScript, Google Fonts
-- **Infra:** Docker, Git LFS, GitHub, SnapDeploy, Cloudflare
-
-## 🚀 Features
-
-### 1. Guideline Q&A (RAG)
-- Answers type 2 diabetes-related questions using **retrieved passages** from provided guideline PDFs.
-- Returns the generated answer along with **citations** (source document + page + snippet).
-- Supports **English and Bahasa Indonesia** outputs.
-
-### 2. Risk Screening Calculator
-- Rule-based risk scoring using:
-  - age
-  - BMI
-  - family history
-  - symptom count
-- Outputs either **Low / Moderate / High risk** (English) or **Risiko Rendah / Sedang / Tinggi** (Indonesian).
-
-### 3. Custom Prompt-Engineered GPT Chatbot
-- Answers diabetes-related questions in general
-
-
-##  How it works
-
-### RAG pipeline (end-to-end)
-Code files:
-- `notebooks/loadData.py`: loads guideline PDFs from `data/guidelines/` and splits them into text chunks
-- `notebooks/vectorEmbed.py`: embeds chunks and stores them in a local **FAISS** vector database at `vector_db/`
-- `notebooks/ragQuery.py`: loads FAISS, retrieves top-k relevant chunks, and asks an LLM to answer using the retrieved context
-
-The FastAPI server (`app.py`) will automatically build the pipeline **on startup** if `vector_db/` is missing.
-
-### Risk screening (rule-based)
-Code file:
-- `notebooks/riskScreening.py`
-
-The endpoint `POST /screen` calls `calculate_risk(...)` and returns the computed risk string.
-
-
-## Project layout
-
-- `app.py`
-  - FastAPI backend
-  - Serves the frontend at `/`
-  - Provides API endpoints:
-    - `POST /chat` (RAG Q&A)
-    - `POST /screen` (risk calculator)
-- `frontend/`
-  - `index.html`, `script.js`, `style.css` for the UI
-- `data/`
-  - `guidelines/` (PDFs)
-  - `processed_texts/` (chunked text, generated)
-- `vector_db/`
-  - Local FAISS vector index (generated)
-- `notebooks/`
-  - `loadData.py`, `vectorEmbed.py`, `ragQuery.py`, `riskScreening.py`
-
-
-## Setup
-
-### 1. Prerequisites
-- Python 3.11+
-- A GROQ API key (used by the LLM in `notebooks/ragQuery.py`)
-
-### 2. Environment variables
-Create a `.env` file inside `diabeta-backend/` with:
-```bash
-GROQ_API_KEY=your_key_here
-```
-
-### 3. Install dependencies
-```bash
-cd diabeta-backend
-pip install -r requirements.txt
-```
-
-
-## Running locally
-
-### Option A: Start the server (auto-build vector DB if needed)
-```bash
-uvicorn app:app --reload --host 0.0.0.0 --port 7860
-```
-Then open:
-- http://127.0.0.1:7860/
-
-On first run, if `vector_db/` is missing, the server will execute:
-- `python notebooks/loadData.py`
-- `python notebooks/vectorEmbed.py`
-
-### Option B: Manually build the vector DB
-```bash
-python notebooks/loadData.py
-python notebooks/vectorEmbed.py
-```
-
-
-## Docker
-
-The repository includes a `Dockerfile` that exposes port **7860**.
-
-Build:
-```bash
-docker build -t diabeta-backend .
-```
-
-Run (example):
-```bash
-docker run --rm -p 7860:7860 \
-  -e GROQ_API_KEY="$GROQ_API_KEY" \
-  diabeta-backend
-```
-
-
-## Notes & gotchas
-
-1. **Vector database location**
-   - `vector_db/` is expected in the `diabeta-backend/` folder.
-
-2. **Static guideline PDFs**
-   - The backend tries to create citation URLs that map to `frontend/static/<pdf>.pdf`.
-   - Ensure guideline PDFs exist and are correctly served if you customize paths.
-
-3. **Language handling**
-   - `language` is normalized in the backend.
-   - English prompts force English-only output; other languages default to Indonesian prompt.
-
-4. **Risk calculator is heuristic**
-   - It is intentionally simple and not a clinical diagnostic tool.
+> ⚠️ For research/learning only. Not clinically validated, not medical advice.
 
 ## 🔗 Links to Demo
 - Video: https://drive.google.com/file/d/1fbyIJCNMSc0xGx2Fu-lJQJzUd0y-szQe/view?usp=sharing
-- Live app: https://diabeta-ai-01bd8.containers.snapdeploy.app (may take a few minutes to load)
+- Live app: https://diabeta-ai-01bd8.containers.snapdeploy.app
+
+## 📚 Tech stack
+Python · FastAPI · LangChain · FAISS · Groq (gpt-oss-120b) · OpenAI SDK · Docker · HTML/CSS/JS
+
+## 👩🏻‍💻 My Role
+Team of 3 (development happened outside GitHub, so this repo shows a single contributor). My role: AI/ML Engineer: built the RAG pipeline (PDF ingestion, chunking, embedding, FAISS retrieval, grounded bilingual prompting) and the rule-based risk-screening calculator, and migrated LLM providers with zero impact to retrieval.
+
+## Features
+- **Guideline Q&A (RAG):** answers diabetes questions with citations (source doc, page, snippet) in English or Bahasa Indonesia.
+- **Risk Screening:** rule-based score from age, BMI, family history, and symptoms → Low/Moderate/High risk.
+- **Prompt-engineered chatbot:** handles general diabetes questions.
+
+## Quick Start
+```bash
+cd diabeta-backend
+pip install -r requirements.txt
+echo "GROQ_API_KEY=your_key_here" > .env
+uvicorn app:app --reload --host 0.0.0.0 --port 7860
+```
+Open http://127.0.0.1:7860/ : the vector DB builds automatically on first run.
+
+Full architecture, project layout, Docker instructions, and known gotchas: [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)
