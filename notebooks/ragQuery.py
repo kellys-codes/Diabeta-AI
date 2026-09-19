@@ -21,7 +21,7 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 if not groq_api_key:
     raise ValueError("CRITICAL ERROR: GROQ_API_KEY not found. Please add it to your .env file.")
 
-embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
 # Absolute path targeting so it doesn't act blind
 vector_db_path = os.path.join(base_dir, "vector_db")

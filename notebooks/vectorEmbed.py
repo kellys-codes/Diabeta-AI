@@ -34,7 +34,7 @@ def build_vector_db():
         return
 
     # convert texts to vector embeddings
-    embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+    embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
     # do FAISS (Facebook AI Similarity Search)
     '''What FAISS does:
