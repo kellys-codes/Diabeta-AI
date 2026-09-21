@@ -1,17 +1,15 @@
--55- 
- darah post prandial 176 mg/dL. HbA1c > 9% setara dengan 
-rerata glukosa darah sewaktu ≥ 212 mg/dL . 
-1) Pertimbangan pemilihan obat monoterapi  
-a) Metformin dianjurkan sebagai obat pilihan pertama 
-pada sebagian besar pasien DM tipe 2. Pemilihan ini 
-dengan alasan atau pertimbangan sebagai berikut :  
-(1) Efektivitasnya relatif baik ; 
-(2) Efek samping hipoglikemianya rendah ; 
-(3) Netral terhadap peningkatan berat badan ; 
-(4) Memperbaiki luaran kardiovaskular ; 
-(5) Harg anya murah . 
-b) Jika karena sesuatu hal, metformin tidak bisa 
-diberikan, misalnya karena alergi, atau efek samping 
-gastrointestinal yang tidak dapat ditoleransi oleh 
-pasien, maka dipilih obat lainnya sesuai dengan keadaan pasien dan ketersediaan.  
-c) Sulfonilurea dapat dipilih sebagai obat pertama jika ada
+hiperglikas i, peningkatan pergantian sel darah merah 
+(misalnya anemia hemolitik, banyak kehilangan darah dan 
+pada atlet), penyakit ginjal tahap akhir, konsumsi alkohol 
+yang berat, dan hemoglobinopati yang berpotensi 
+menyebabkan ketidaktepatan analitis yang lebih besar pada 
+metode pengukuran kromatografi cair tekanan tinggi ( high 
+performance liquid chromatography  (HPLC)), dan biaya yang 
+lebih tinggi dibandingkan dengan pengukuran glukosa.  
+Varian genetik seperti hemoglobin S dan C atau peningkatan 
+hemoglobin janin bersama dengan turunannya yang 
+dimodifikasi secara kimiawi dari hemoglobin (misalnya hemoglobin karbamatilasi pada pasien dengan gangguan 
+fungsi ginjal) secara substansial juga dapat mengurangi 
+keakuratan pengukuran HbA1c.   
+Rekomendasi  ADA menyatakan bahwa pada pasien yang 
+HbA1c dan glukosa darahnya tidak dapat diandalkan

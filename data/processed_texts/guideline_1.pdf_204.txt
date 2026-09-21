@@ -1,3 +1,1 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI   44 
-Perkumpulan Endokrinologi Indonesia
+. Pemeriksaan HbA1c memang penting untuk menentukan terapi dan eskalasi terapi, namun tidak setiap fasilitas kesehatan bisa melaksanakan pemeriksaan HbA1c. Pada kondisi dimana tidak bisa dilakukan pemeriksaan HbA1c maka bisa dipergunakan konversi dari rerata glukosa darah puasa dan atau glukosa darah post prandial selama 3 bulan terakhir menggunakan tabel konversi  HbA1c ke glukosa darah rerata dari Standard of Medical Care in Diabetes American Diabetes Association 2019 yang dimodifikasi (Tabel 12). Tabel konversi yang dimodifikasi ini tidak secara akurat menggambarkan HbA1c sesungguhnya dan hanya dipergunakan pada keadaan bila pemeriksaan HbA1c tidak dapat dilakukan.   Tabel 12. Konversi Glukosa Darah Rerata ke Perkiraan HbA1c  HbA1c  Rerata Glukosa Plasma

@@ -1,24 +1,15 @@
--81- 
- Tabel 17. Derajat i nfeksi pada k aki diabetes  
-Derajat Infeksi  Gambaran Klinis  
-Derajat 1  
-(tidak terinfeksi)  Tidak ada kelainan  
-Derajat 2 (ringan)  Lesi superfisial, dengan minimal 2 dari kriteria 
-berikut :  
-1) Teraba hangat di sekitar  luka 
-2) Eritema  >0,5-2cm 
-3) Nyeri  lokal 
-4) Indurasi/bengkak  lokal 
-5) Sekret  purulen  
-Penyebab inflamasi lain harus disingkirkan  
-Derajat 3 (sedang ) Eritema >2 cm serta satu dari temuan:  
-Infeksi yang menyerang jaringan di bawah 
-kulit/jaringan  subkutan  
-Tidak ada responss inflamasi  sistemik  
-Derajat  4 (berat)  Minimal 2 dari tanda responss sistemik :  
-1) Temperatur >39o C atau  <36o C 
-2) Frekuensi nafas  >90 x/menit  
-3) PaCO2  <32 mmHg  
-4) Leukosit >12.000 atau  <4.000 U/L  
-5) Limfosit imatur  >10%  
-Penatalaksanaan kaki diabetik dengan ulkus harus dilakukan
+(intensitas tinggi, panjang gelombang tinggi, frekuensi 
+rendah), intens (intensitas tinggi, panjang gelombang tinggi, frekuensi tingg i). Terapi TENS konvensional memiliki 
+-86- 
+ frekuensi tinggi yaitu 50 -100 Hz, intensitas rendah, dan 
+panjang gelombang yang pendek 50 -200 ms. Terapi TENS  
+konvensional  menstimulasi saraf aferen noksius yang 
+memiliki ambang rangsang rendah (A -beta), sehingga 
+mengh ambat aktivitas saraf nosiseptif tingkat 2. 
+Akupunktur TENS memiliki frekuensi rendah yaitu 2 -4 Hz, 
+intensitas tinggi dan panjang gelombang yang panjang 100 -
+400 ms. Akupunktur TENS menstimulasi saraf aferen 
+noksius yang memiliki ambang rangsang tinggi (A -delta), 
+sehingga mengaktivasi jalur desende inhibisi nyeri ekstra 
+segmental. Intens TENS memiliki frekuensi tinggi di atas 200 
+Hz dan intensitas tinggi yang dapat ditoleransi pasien, dan

@@ -1,19 +1,17 @@
--33- 
- dibagi menjadi lima golongan:  
-a) Peningkat sensitivitas terhadap insulin: metformin dan 
-tiazolidin edion (TZD)  
-(1) Metformin  
-Metformin mempunyai efek menurunkan glukosa 
-darah dengan cara memperbaiki resistensi insulin, 
-namun tanpa mempengaru hi sekresi insulin. Cara 
-kerja metformin adalah mengurangi produksi 
-glukosa hati (glukoneogenesis), dan memperbaiki 
-ambilan glukosa perifer.   
-Metformin merupakan pilihan pertama pada 
-sebagian besar kasus DM tipe 2. Metformin dapat 
-dilanjutkan dan ditambahk an dengan obat 
-hipoglikemik oral lainnya maupun insulin, selama dapat ditoleransi dan tidak ada kontraindikasi.   
-Metformin terbukti efektif, aman, murah, dan dapat menurunkan risiko kejadian kardiovaskular 
-dan kematian. Sediaan metformin dapat berupa 
-sedia an immediate -release yang diberikan dua kali 
-sehari ataupun sediaan lepas lambat (extended
+(2) Tiazolidin edion (TZD)  
+Tiazolidinedion (TZD) merupakan obat yang 
+bekerja sebagai agonis dari enzim peroxisome 
+proliferator activated receptor gamma (PPAR -γ), 
+yaitu reseptor insulin yang terdapat di sel otot, 
+lemak, dan hati. Golongan obat ini mempunyai 
+efek menurunkan resistensi insulin dengan 
+meningkatkan jumlah protein pengangkut glukosa, sehingga meningkatkan ambilan glukosa di sel otot dan lemak, serta men urunkan produksi 
+glukosa di hati. Penurunan HbA1c pada pemberian tiazolidinedion juga cukup efektif, yaitu sekitar 
+0,5-1,4%.
+ 
+Obat ini dimetabolisme oleh enzim sitokrom P450 
+-35- 
+ di dalam hati, sehingga harus diperhatikan bila 
+diberikan bersamaan dengan obat yan g bekerja 
+sebagai induktor atau inhibitor sitokrom P450 lainnya. Obat ini juga dapat menyebabkan edema dan pertambahan berat badan, sehingga tidak 
+boleh diberikan pada pasen gagal jantung kelas III

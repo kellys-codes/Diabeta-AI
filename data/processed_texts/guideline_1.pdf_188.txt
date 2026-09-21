@@ -1,16 +1,1 @@
-Alfa-glucosidase  
- Acarbose  - Tidak menyebabkan 
-hipoglikemia  
-- ↓ Glukosa darah  
-postprandial  
-- ↓ kejadian CVD  
- - Efektivitas penurunan 
-A1c sedang  
-- Efek samping GI  
-- Penyesuaian dosis 
-harus sering dilakukan  Penghambat DPP-4 -Sitagliptin -Vildagliptin -Saxagliptin -Linagliptin - Tidak menyebabkan hipoglikemia  - Ditoleransi dengan baik - Angioedema, urtikaria, atau efek dermatologis lain yang dimediasi respon imun  - Pankreatitis akut  - Hospitalisasi akibat gagal jantung Tinggi  Penghambat SGLT 2 - Dapaglifozin - Canaglifozin - Empaglifozin  - Tidak menyebabkan hipoglikemia - ↓ berat badan -  ↓ tekanan darah - Efektif untuk semua fase DM - Infeksi urogenital  - Poliuria - Hipovolemia/ Hipotensi/ pusing - ↑ LDL  - ↑ kreatinin (transient)  Agonis reseptor  
-GLP-1 - Liraglutide  
-- Semaglutide  
-- Lixisenatide*  
-- Albiglutide*  
-- Exenatide*
+ Pada kelompok dengan regimen premixed OD r OHO : jika GDP atau GD pre-prandial pagi tinggi sedangkan GD siang hari normal, perlu dilakukan intensifikasi dengan peningkatan pemberian regimen premixed dari 1 kali sehari menjadi 2 kali sehari, dengan syarat fungsi ginjal baik.  Jika belum mencapai target kontrol glikemik yang diinginkan maka dapat ditingkatkan menjadi 3 kali dosis pemberian insulin premixed. Jika pada evaluasi berikutnya target belum tercapai, maka premixed diganti dengan basal bolus.  Pada kelompok dengan regimen fixed ratio combination : regimen FRC hanya diperbolehkan optimisasi 1 kali dosis/hari. Jika pada evaluasi bulan berikutnya, target kontrol glikemik belum tercapai dengan didapatkan GDP atau GD pre-prandial pagi tinggi maka dilakukan intensifikasi 1 kali FRC + Prandial 1 kali lanjut 2 kali/hari

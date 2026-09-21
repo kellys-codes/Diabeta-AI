@@ -1,11 +1,15 @@
-Terapi rehabilitasi medik untuk komplikasi diabetik seperti miopati, 
-neuropati dan artrop ati, dapat menggunakan berbagai modalitas 
-seperti laser ( high intensity  laser dan low intensity laser ), 
-elektrostimulasi (transcutaneous electro nerve stimulation, galvanic elctro stimulation, faradic electro stimulation, functional electro stimulation ), dan diatermi ( ultra sound diathermy, microwave 
-diathermy, short wave diathermy, infra red radiation).  
-a. Terapi sinar  
-1) High intensity laser treatment (HILT)  
-Indikasi aplikasi modalitas HILT pada komplikasi DM, antara lain pada ulkus diabetik dan keluhan nyeri neuropati, 
-yang dapat berlanjut terjadi penurunan fungsi tubuh. Terapi 
-laser intensitas tinggi (HILT) ini memiliki intensitas kekuatan 
-yang tinggi (3 kW)  dan panjang gelombang 1.064 nm yang
+1) Microwave diathermy (MWD) dan shortw ave diathermy  (SWD  
+Modalitas diatermi yang menggunakan gelombang 
+elekromagnetik frekuensi tinggi, yang dapat memanaskan 
+jaringan sampai kedalaman lebih dari 5 cm. Modalitas MWD 
+memiliki frekuensi 2456 Hz dan 915 MHz, dan efek 
+pemanasan terutama dihasilkan oleh medan elektrik. 
+Modalitas SWD memiliki frekuensi 10 -100 MHz, dan efek 
+pemanasan terutama dihasilkan oleh medan magnetik.   
+2) Ultrasound diathermy (USD)  
+Modalitas diatermi yang menggunakan gelombang suara dengan frekuensi 800 KHz -1MHz. Gelombang suara 
+ditransfer ke jaringan tubuh melalui media yang sesuai 
+seperti air atau jeli. Gelombang suara ultra menyebar pada 
+jaringan tubuh secara longitudinal, kemudian diabsorbsi 
+jaringan dan berubah menjadi energi panas. Besaran 
+absorbsi pada tiap jaringan berbeda, y aitu sangat sedikit

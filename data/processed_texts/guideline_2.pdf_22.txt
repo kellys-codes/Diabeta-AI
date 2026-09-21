@@ -1,22 +1,23 @@
--10- 
- C. Peringkat bukti untuk rekomendasi praktik klinis  
-Tabel 1. Kekuatan peringkat bukti 
-Kualitas Bukti  Keterangan  
-1 Penilaian didapat dari hasil penelitian lebih dari 1 uji 
-klinis acak besar dengan randomisasi, atau meta-
-analisis yang berkualitas  
-2 Penilaian didapat dari hasil penelitian dari 1 atau lebih 
-uji klinis yang lebih kecil/tidak dirandomisasi , 
-penelitian kohort, atau meta -analisis yang b erkualitas 
-sedang  
-3 Penilaian didapat dari hasil penelitian retrospektif, 
-observasional , atau meta -analisis yang mempunyai 
-keterbatasan dalam metodologi  
-4 Konsensus ahli atau opini dari ahli yang 
-berpengalaman, atau serial kasus/laporan kasus  
- 
-Tabel 2. Klasifikasi kelas r ekomendasi  
 Kualitas Bukti  Keterangan  
 A Berdasar pada peringkat  bukti  1 sehingga 
 prosedur/terapi sangat direkomendasikan  
-B Berdasar pada peringkat  bukti  2 sehingga
+B Berdasar pada peringkat  bukti  2 sehingga 
+prosedur/terapi direkomendasikan  untuk dilakukan  
+C Berdasar pada peringkat  bukti  3 sehingga 
+prosedur/terapi dapat dilakukan  
+D Berdasar pada peringkat  bukti  4 sehingga 
+prosedur/terapi dapat dipertimbangkan  
+ 
+Indonesia sampai saat ini belum menetapkan derajat rekomendasi 
+berdasarkan bukti penelitian sendiri, oleh sebab i tu derajat rekomendasi 
+yang akan digunakan pada pedoman ini mengacu dari ADA  2019. 
+  
+-11- 
+ BAB III 
+HASIL DAN PEMBAHASAN  
+ 
+A. Definisi, klasifikasi, dan diagnosis diabetes melitus  
+1. Definisi  
+Menurut American Diabetes Association (ADA) tahun 201 9, DM 
+merupakan suatu kelompok penyakit metabolik dengan karakteristik 
+hiperglikemia yang terjadi karena kelainan sekresi insulin, kerja

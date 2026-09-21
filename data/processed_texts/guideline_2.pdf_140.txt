@@ -1,16 +1,20 @@
--53- 
- 22.00, kemudian dilakukan evaluasi dosis tersebut dengan 
-menilai kadar glukosa darah puasa keesokan harinya. Pada 
-keadaan di  mana kadar glukosa darah sepanjan g hari masih 
-tidak terkendali meskipun sudah mendapat insulin basal, 
-maka perlu diberikan terapi kombinasi insulin basal dan 
-prandial. Obat antihiperglikemia oral dapat dilanjutkan bila 
-penggunaan insulin prandial hanya satu kali, tapi harus 
-dihentikan bil a menggunakan insulin prandial 2 -3 kali 
-sehari. Pada keadaan tertentu pemberian insulin basal dan prandial dapat dikombinasikan dengan metformin atau 
-SGLT -2 inhibitor atau agonis GLP -1, dengan tujuan untuk 
-mencegah peningkatan berat badan akibat insulin.
- 
-e. Individualisasi Terapi  
-Manajemen diabetes melitus  harus bersifat individual. Pelayanan 
-yang diberikan berbasis pada individu dimana keinginan,
+terhadap kardiovaskular seperti insulin.  
+b) Pasien dengan komorbid gagal jantung dan penyakit 
+ginjal kronik  
+Terapi kombinasi yang disarankan  adalah metformin 
+dan penghambat SGLT -2 bila fungsi ginjal baik, karena 
+terbukti menurunkan progresivitas gagal jantung dan 
+penyakit ginjal kronik pada cardiovascular outcome trial  
+(CVOT). Pada keadaan dimana terdapat kontraindikasi 
+pemberian penghambat SG LT-2 (pasien dengan LFG < 
+60 ml/menit) maka alternatif kombinasi yang 
+disarankan adalah agonis reseptor GLP -1 yang juga 
+terbukti mempunyai manfaat proteksi kardiovaskular. 
+Selanjutnya bila diperlukan intensifikasi terapi karena 
+belum mencapai target HbA1c < 7%, maka untuk 
+penambahan obat berikutnya:  
+(1) Pertimbangkan menambah obat kelas lain yang 
+terbukti mempunyai manfaat kardiovaskular  
+(2) Sulfonilurea generasi modern dengan risiko 
+hipoglikemia rendah  
+(3) Insulin

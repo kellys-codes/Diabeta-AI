@@ -1,17 +1,31 @@
-yang mengkode GLP -1 dan glukagon.  Hormon GLP -1 
-terekspresikan di sel -sel L mukosa yang terletak di usus 
-bagian distal (ileum dan kolon), dan juga terekspresikan 
-di sel alfa pankreas, serta di neuron dari beberapa 
-bagian otak yaitu hipotalamus, hipofisis, nukleus 
-saluran solitaries dan nukleu s retikuler. Hormon GIP 
-dan GLP -1 juga beraksi pada tipe -tipe sel lain yang 
-mempengaruhi homeostasis energi. Hormon GIP ini 
-meningkatkan penyimpanan energi dalam adipositas, 
-sedangkan GLP -1 mengatur homeostasis glukosa 
-melalui inhibisi sekresi glukagon dan  pengosongan 
-lambung, dan menyebabkan rasa kenyang sebagai 
-pengontrol berat badan. Aksi insulinotropik kedua 
-hormon ini melalui reseptor spesifik pada sel beta 
-untuk meningkatkan biosintesis dan sekresi insulin, 
-sehingga memelihara kemampuan endokrin pankr eas 
-untuk mengatur pembuangan dan penyimpanan energi
+dapat diberikan sekali sehari. Dosis awal umumnya 
+diberikan 16 unit, yang berarti 16 unit degludec dan 
+0,58 mg liraglutide. Dosis maksimal 50 unit, yang 
+berarti 50 unit degludec dan 1,8 mg liraglutide. 
+Pengaturan dosis dilakukan seminggu sekali, 
+disesuaikan dengan kadar glukosa darah sebelum 
+-51- 
+ 
+Insulin basal + oral anti diabetik  
+GDP 80 -130 mg/dL  
+akan tetapi  HbA1c > 7%  
+Insulin basal + oral anti diabeti k 
+(tunda insulin sekretagog)  
++ agonis reseptor GLP- 1 dosis 
+terendah  
+(dosis sesuai agonis reseptor GLP -1 
+Insulin basal + OAD +  
+ titrasi  agonis reseptor G LP-1 tiap 
+minggu hingga dosis maksimal yang 
+bisa ditoleransi dan pertahankan  
+Insulin basal + Insulin bolus 
+1x pada porsi makan 
+terbesar  
+Insulin premixed 2x  
+Sesuaikan dengan 
+algoritme intensifikasi 
+terapi injeksi  
+Sesuaikan dengan 
+algoritme 
+intensifikasi terapi 
+injeksi

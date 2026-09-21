@@ -1,16 +1,25 @@
--115- 
- mengetah ui risiko progresi retinopati.  
-Pasien dengan temuan retinopati diabetik dalam stadium apapun 
-perlu dikonsultasikan ke spesialis mata. Kontrol glukosa darah dan 
-tekanan darah secara intensif dapat mencegah kemunculan ataupun peningkatan keparahan retinopati diabetik.   
-Retinopati diabet ik dapat dibagi atas 2 jenis,  yaitu:  
-1. Retinopati diabet ik nonproliferatif  
-a. Ringan: diindikasikan dengan setidaknya terdapat satu 
-mikroaneurisma  
-b. Sedang: adanya perdarahan, mikroaneurisma, dan  eksudat  
-c. Berat: dikarakterkan  dengan perdarahan dan mikroaneurisma 
-pada 4 kuadran, dengan venous beading setidaknya pada 2 
-kuadran serta intra-retinal microvascular anomalies (IRMA)  
-setidaknya pada 1  kuadran (4 -2-1). 
-2. Retinopati diabet ik proliferatif  
-Terdapat komplikasi berupa neovasku larisasi pada diskus optik atau
+pemeriksaan fisis merupakan kunci dari diagnosis. Pemeriksaan fisis yang 
+mudah harus dilakukan pad a seluruh serabut saraf, dengan menggunakan  
+NDS, yang telah di validasi, memiliki reabilitas yang baik, dan mudah di 
+reproduksi. Pemeriksaan NDS terdiri dari pemeriksaan sensoris yaitu 
+sensasi nyeri ( pinprick), persepsi suhu (tongkat panas dan dingin) dan 
+vibrasi (garpu tala 128Hz), yang dinilai dengan normal (0), atau 
+menurun/hilang (1). Komplikasi dari diabetik neuropati adalah ulkus 
+diabetikum. Skor NDS > 6/10 merupakan faktor risiko untuk terjadinya ulkus diabetikum.   
+Tabel 26. Pengobatan Ny eri Neuropatik pada DM  
+Golongan  Nama obat  Dosis  Efek 
+samping 
+yang umum  Adverse 
+events  Interaksi 
+obat Awal Target 
+efektif  
+Antikon  
+vulsan  Prega  balin  25-
+75mg,  
+1-3x/hr  300-
+600mg/  
+hr Somnolen, 
+edema 
+tungkai, 
+pusing, kelelahan, nyeri kepala, 
+ataxia,

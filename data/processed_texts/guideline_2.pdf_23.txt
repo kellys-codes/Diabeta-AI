@@ -1,13 +1,26 @@
-Kualitas Bukti  Keterangan  
-A Berdasar pada peringkat  bukti  1 sehingga 
-prosedur/terapi sangat direkomendasikan  
-B Berdasar pada peringkat  bukti  2 sehingga 
-prosedur/terapi direkomendasikan  untuk dilakukan  
-C Berdasar pada peringkat  bukti  3 sehingga 
-prosedur/terapi dapat dilakukan  
-D Berdasar pada peringkat  bukti  4 sehingga 
-prosedur/terapi dapat dipertimbangkan  
- 
-Indonesia sampai saat ini belum menetapkan derajat rekomendasi 
-berdasarkan bukti penelitian sendiri, oleh sebab i tu derajat rekomendasi 
-yang akan digunakan pada pedoman ini mengacu dari ADA  2019.
+Menurut American Diabetes Association (ADA) tahun 201 9, DM 
+merupakan suatu kelompok penyakit metabolik dengan karakteristik 
+hiperglikemia yang terjadi karena kelainan sekresi insulin, kerja 
+insulin atau kedua -duanya.  
+2. Klasifikasi  
+Klasifikasi DM dapat dilihat pada Tabel 3. 
+Tabel 3. Klasifikasi etiologi d iabetes melitus  
+Klasif ikasi Keterangan  
+Diabetes 
+melitus tipe 1 
+(DM tipe 1)  a. Destruksi sel beta, umumnya menjurus ke 
+defisiensi insulin absolut  
+b. Autoimun  
+c. Idiopatik  
+Diabetes 
+melitus tipe 2 
+(DM tipe 2)  Disebabkan oleh resistensi insulin, namun dlam 
+perjalanan penyakit dapat terjadi gangguan sekresi 
+insulin yang progresif.  
+Diabetes 
+melitus tipe 
+lain a. Sindroma Diabetes Monogenik, seperti maturity -
+onset diabetes of the young (MODY)  
+b. Gangguan pada kelenjar eksokrin pankreas 
+misalnya fibrosis kistik, pankreatitis, dan lain -
+lain.

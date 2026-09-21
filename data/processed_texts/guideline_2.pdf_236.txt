@@ -1,15 +1,13 @@
-jaringan sampai kedalaman lebih dari 5 cm. Modalitas MWD 
-memiliki frekuensi 2456 Hz dan 915 MHz, dan efek 
-pemanasan terutama dihasilkan oleh medan elektrik. 
-Modalitas SWD memiliki frekuensi 10 -100 MHz, dan efek 
-pemanasan terutama dihasilkan oleh medan magnetik.   
-2) Ultrasound diathermy (USD)  
-Modalitas diatermi yang menggunakan gelombang suara dengan frekuensi 800 KHz -1MHz. Gelombang suara 
-ditransfer ke jaringan tubuh melalui media yang sesuai 
-seperti air atau jeli. Gelombang suara ultra menyebar pada 
-jaringan tubuh secara longitudinal, kemudian diabsorbsi 
-jaringan dan berubah menjadi energi panas. Besaran 
-absorbsi pada tiap jaringan berbeda, y aitu sangat sedikit 
-diabsorbsi pada jaringan lemak, diabsorbsi moderat pada 
-jaringan otot, dan diabsorbsi paling banyak pada jaringan 
-tulang. Kedalaman penetrasi adalah 7 cm.
+Kontrol tekanan darah dilakukan melalui pemberian ACE inhibitor 
+atau ARB dengan target tek anan darah sebesar <140/90 mmHg  dan perlu 
+dilakukan evaluasi  kadar serum kreatinin dan kalium serum  secara 
+berkala. Kombinasi obat golongan  ACE inhibitor  dan ARB secara 
+bersamaan  tidak direkomendasikan  karena dapat mengakibatkan 
+hiperkalemia dan memperbera t fungsi ginjal. Pemberian ACE inhibitor atau 
+ARB sebaiknya dilanjutkan m eskipun target tekanan darah telah tercapai 
+jika terjadi proteinuria masif atau mikroalbuminuria. Obat d iuretik, 
+penyekat kanal kalsium, dan p enghambat beta dapat diberikan sebagai 
+terapi tambahan ataupun pengganti pada pasien yang tidak dapat 
+mentoleransi ACE  inhibitor  dan ARB.  
+Modifikasi gaya hidup  yang perlu dilakukan  antara lain b erhenti 
+merokok , meningkatkan aktivitas fisis , modifikasi diet  dengan  konsumsi

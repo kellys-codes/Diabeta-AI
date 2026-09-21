@@ -1,14 +1,18 @@
-Academy of Neurology, ADA= American Diabetes Association, EFNS= 
-European Federation of Neurology Societies, NICE= National Institute of 
-Clinical Excelence  
+Prinsip terapi KAD dan SHH terdiri dari pemberian cairan, terapi 
+insulin, koreksi kalium dan bikarbonat.  
+a. Cairan  
+Pada SHH terdapat kekurangan natrium 5 -13 mmol/kgBB sesuai 
+dengan kehilangan cairan 100 -200 mL/kgBB. Pada KAD terjadi 
+kekur angan natrium 7 -10 mmol/kgBB sesuai dengan kehilangan 
+cairan 100 mL/kgBB. Pemberian cairan intravena harus memperhatikan risiko terjadinya edema serebri. Pada dewasa, 
+pemberian cairan umumnya diawali dengan infus NaCl 0,9% 1- 2 
+L/jam untuk mengatasi syok at au 500 mL/jam selama 4 jam, 
+kemudian dilanjutkan 250 mL/jam.
   
-L. Diabetes dengan penyakit  kritis   
-Hiperglikemia sering terjadi pada penyakit kritis, bukan hanya pada 
-pasien diabetes tetapi dapat terjadi juga pada pasien yang tidak punya 
-riwayat DM sebelumnya ( stress hyperglycemia ). Data penelitian 
-menunjukkan bahwa hiperglikemia meningkatkan mortalitas dan 
-morbiditas sehingga perlu dikendalikan. Banyak faktor berperan terhadap 
-terjadinya hiperglikemia di unit rawat intensif, seperti adanya stres metabolik berat, nutri si enteral dan parenteral, serta obat -obatan yang 
-dapat meningkatkan glukosa darah dan sangat tergantung pada adanya 
-penyakit dasar diabetes melitus sebelumnya . 
-Glukosa darah yang direkomendasikan untuk pasien DM dengan
+b. Koreksi kalium  
+Pada SHH terdapat kekurangan kalium 4- 6 mmol/kg BB dan 
+KAD sebesar 2 -5 mmol/kg BB. Pada pasien dengan normo atau 
+hipokalemi, kalium harus segera diberikan secara intravena 10 -
+40 m mol/L dengan kecepatan maksimum 40 mmol/jam. Pada 
+-134- 
+ keadaan hipokalemia berat yaitu kalium <  3,3 mmol/L) maka

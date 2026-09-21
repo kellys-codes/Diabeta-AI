@@ -1,22 +1,21 @@
--42- 
- (7) Penurunan berat bad an yang cepat  
-(8) Gagal dengan kombinasi obat antihiperglikemia 
-oral dosis optimal  
-(9) Kontraindikasi dan atau alergi terhadap obat 
-antihiperglikemia oral  
-(10) Kondisi perioperatif sesuai dengan indikasi  
-Pemberian insulin harus dipertimbangkan jika pasien 
-sudah menggunakan satu atau dua obat antidiabetes 
-dosis optimal namun HbA1c saat diperiksa ≥ 7,5%, atau 
-saat pertama diperiksa HbA1 c >9% (77,4 mmol/mol) 
-atau glukosa darah ≥300 mg/dL (16,7 mmol/L),  atau 
-terdapat gangguan metabolisme (katabolisme) seperti 
-penurunan berat badan yang cepat, atau HbA1 c >9% 
-(77,4 mmol/mol) atau glukosa darah ≥300 mg/dL (16,7 
-mmol/L).  
-Berdasarkan asalnya, insulin terbagi menjadi 3 jenis, 
-yakni:  
-(1) Insulin manusia  
-Istilah ‘insulin ma nusia’ lebih merupakan 
-penamaan untuk menjelaskan bahwa insulin 
-buatan ini memiliki cara kerja yang serupa dengan
+Dosis insulin prandial disesuaikan dengan kadar 
+glukosa  darah, waktu pemberian makan dan 
+konsumsi karbohidrat. Dosis awal umumnya 4 
+unit atau 10% dari dosis basal, yang diberikan 
+setiap sebelum makan. Penyesuaian dosis dilakukan setiap 3- 4 hari dengan mena mbahkan 
+atau mengurangi 1 -2 unit atau 10 -15% dari dosis 
+sebelumnya . 
+Terapi insulin tunggal atau kombinasi disesuaikan dengan kebutuhan pasien dan responss individu, yang dinilai dari hasil pemeriksaan kadar glukosa 
+darah harian.  
+Insulin kerja cepat, kerja sangat cepat atau kerja 
+pendek sering juga digunakan untuk mengatasi 
+keadaan hiperglikemia akut, karena selain 
+kerjanya yang cepat, larutannya juga jernih 
+sehingga bisa diberikan secara intravena baik bolus ataupun drip.  
+Tabel 11 . Masa kerja insulin
+ 
+Jenis Insulin  Onset  Puncak  Durasi 
+Aksi 
+Insulin kerja pendek 
+(short acting insulin)  ± 30 
+menit -1

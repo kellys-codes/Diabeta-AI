@@ -1,17 +1,13 @@
-Tabel 22. Gejala neuropati  
- Serabut saraf besar  Serabut saraf kecil  
-Fungsi  Keseimbangan, tekanan  Nosiseptif (nyeri), suhu  
-Gejala  Kesemutan, baal, gangguan 
-keseimbangan  Nyeri seperti terbakar, 
-tersetrum, ditusuk -tusuk  
-Diagnosis  
- Ada beberapa kriteria untuk menentukan ada komplikasi neuropati 
-pada pasien diabetes. Diagnosis neuropati diabetik dapat ditegakkan 
-berdasarkan konsensus San Antonio, yaitu terdapat paling sedikit 1 dari 5 kriteria:  
-1. Symptom scoring.  
-2. Physical examination scoring.  
-3. Quantitative Sensory Testing.  
-4. Cardiovascular Autonomic Function Test (cAFT).  
-5. Electro -diagnosis Studies (EDS).  
-Symptom scoring dan  physical examination scoring  
-Pemeriksaan symptom scoring  dan physical  examination scoring  telah
+karena sangat tergantung pada kemampuan dan fasilitas setempat  
+6. Saat ini standar baku protokol pemberian infus insulin intravena belum ada, masing masing institusi dapat membuat protokol sendiri karena sangat tergant ung pada kemampuan dan fasilitas setempat  
+7. Salah satu contoh protokol infus insulin intravena adalah modifikasi 
+-128- 
+ protokol Texas 7 dan Protokol Northwestern  22  
+8. Kecepatan penurunan glukosa darah 50- 100 mg/dL/jam, kecuali 
+pada kondisi khusus (trombolisis pada stroke iskemik akut)  
+9. Bila kecepatan penurunan glukosa darah 100 -150 mg/dL/jam atau 
+jika glukosa darah sudah mencapai target 140- 180 mg/dL maka dosis 
+insulin diturunkan 50%  
+10. Bila kecepatan penurunan glukosa darah >150 mg/dL/jam maka drip 
+insulin dihentikan s ementara. Glukosa darah diperiksa ulang 1 jam 
+kemudian dan hasilnya disesuaikan dengan protocol

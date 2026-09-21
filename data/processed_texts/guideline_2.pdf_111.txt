@@ -1,17 +1,35 @@
-yakni:  
-(1) Insulin manusia  
-Istilah ‘insulin ma nusia’ lebih merupakan 
-penamaan untuk menjelaskan bahwa insulin 
-buatan ini memiliki cara kerja yang serupa dengan 
-insulin yang diproduksi oleh tubuh manusia. Baik 
-insulin manusia maupun analog diproduksi 
-dengan cara memperbanyak protein insulin di 
-dalam ba kteri E. coli.   
-(2) Insulin analog  
-Insulin analog merupakan upaya untuk membuat insulin yang lebih menyerupai profil insulin yang 
-fisiologis (normal) di tubuh kita. Insulin analog 
-telah mengalami proses modifikasi genetik 
-sehingga cara dan waktu kerjanya bisa diatur 
-sedemikian rupa  
-(3) Insulin biosimilar  
-Saat ini juga terdapat insulin biosimilar yang dibuat menyerupai produk insulin original, dengan susunan asam amino yang sama namun cara
+Tabel 11 . Masa kerja insulin
+ 
+Jenis Insulin  Onset  Puncak  Durasi 
+Aksi 
+Insulin kerja pendek 
+(short acting insulin)  ± 30 
+menit -1 
+jam 2-4 jam  6-8 jam  
+Insulin kerja cepat (rapid -
+acting insulin)  ± 15 
+menit  1-2 jam  3-6 jam  
+-46- 
+ Insulin kerja sangat cepat 
+(ultra -fast acting insulin)  ± 9 menit  1-2 jam 3-6 jam  
+Insulin kerja menengah 
+(intermediate acting 
+insulin)  1-2 jam  6-10 jam  ± 12 jam  
+Insulin kerja panjang 
+(long -acting insulin)  1-1,5 jam  Hampir 
+tanpa puncak  12-24 jam  
+Insulin kerja ultra 
+panjang (ultra -long acting 
+insulin)  30-90 
+menit  Tanpa 
+puncak  36-42 jam  
+Insulin campuran tetap 
+kerja pendek dan menengah  30-60 
+menit  2-12 jam  18-24 jam  
+Insulin campuran tetap 
+kerja cepat dan menengah (premix insulin)  10-20 
+menit  1-4 jam  18-24 jam  
+Insulin campuran tetap 
+kerja cepat dan ultra 
+panjang (co-formulation 
+insulin)  ± 15

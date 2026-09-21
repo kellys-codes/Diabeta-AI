@@ -1,43 +1,13 @@
--125- 
- Tabel 27. Pedoman Pengobatan Nyeri Neuropatik pada DM 
-Lini 
-pengobatan  EFNS (2010)  AAN (2011)  NICE (2013)  AACE (2015)  ADA (2017)  
-Lini 
-pertama  Amitriptilin  
-Duloxetine  
-Pregabalin  
-Venlafexine  
-Sodium 
-valproate  
-Gabapentin  Pregabalin  Amitriptilin  
-Duloxetine  
-Pregabalin  
-Gabapentin  
- Amitriptilin  
-SNRI  
-Pregabalin  
-Gabapentin  
-Clonidine  Duloxetine  
-Pregabalin  
-Lini kedua  Tramadol  
-Opioid  Amitriptilin  
-Duloxetine  
-Sodium 
-valproate  
-Venlafexine  
-Gabapentin  
-Tramadol  
-Opioids  
-capsaicin   Tramadol  
-Tapentadol  
-Topiramate  
-Oxcabarzapine  
-Lidocaine 5%  
-Capsaicin  TCA 
-Gabapentin  
- 
-Lini ketiga    Capsaicin  
-Tramadol    
-*AACE= American Association of Clinical Endocrinologist, AAN= American 
-Academy of Neurology, ADA= American Diabetes Association, EFNS= 
-European Federation of Neurology Societies, NICE= National Institute of
+meningkat.  Keadaan KAD terjadi bila terdapat kekurangan insulin 
+yang berat, sehingga tidak saja menimbulkan hiperglikemia dan 
+dehidrasi yang  berat tapi juga mengakibatkan produksi keton 
+meningkat serta asidosis. Diagnosis KAD ditegakkan bila terdapat peningkatan kadar glukosa darah yang tinggi (300- 600 mg/dL), 
+disertai tanda dan gejala asidosis serta terdapat benda keton di dalam plasma. Osmol aritas plasma meningkat (300 -320 mOs/mL) dan 
+terjadi peningkatan anion gap.   
+Terapi bertujuan untuk mengoreksi kelainan patofisiologi yang 
+mendasari, yaitu gangguan keseimbangan cairan dan elektrolit, kadar 
+glukosa darah, gangguan asam basa, serta mengobati faktor pencetus. 
+Prinsip terapi KAD dan SHH terdiri dari pemberian cairan, terapi 
+insulin, koreksi kalium dan bikarbonat.  
+a. Cairan  
+Pada SHH terdapat kekurangan natrium 5 -13 mmol/kgBB sesuai

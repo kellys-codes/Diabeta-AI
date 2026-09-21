@@ -1,7 +1,13 @@
-3. Transisi ke subkutan dapat dilakukan dengan berbagai cara:  
-a. Basal dalam bentuk infus insulin intravena (sebagai pengganti insulin basal subkutan) ditambah dengan prandial insulin subkutan  
-b. Regimen basal plus koreksi: insulin basal long-acting  subkutan 
-ditambah dengan dosis koreksi sebelum makan besar dengan insulin prandial subkutan  
-c. Regimen basal -bolus: insulin basal long-acting  subkutan 
-ditambah fixed dose insulin prandial subkutan sebelum makan 
-besar
+Keadaan hiperglikemia sangat mempengaruhi tingkat mortalitas 
+penyakit stroke dan penyembuhan pasca  stroke. Hiperglikemia yang 
+berkelanjutan dapat meningkatkan ukuran infark.  Manajemen stroke 
+untuk pasien dengan stroke iskemik non -kardioembolik atau transient 
+ischemic attack  (TIA), direkomendasikan untuk pemberian antiplatelet 
+daripada antikoagulan oral, karena dapat menurunkan risiko stroke 
+berulang dan kejadian kardiovaskular yang lain.   
+Pemantauan kadar glukosa darah sangat diperlukan. Hiperglikemia 
+(kadar glukosa darah > 180 mg/dL) p ada stroke akut harus diobati 
+dengan titrasi insulin. (C) Rekomendasi target glukosa darah untuk 
+pasien stroke akut adalah  110-140 mg/d L tetapi tanpa terjadi 
+keadaan hipoglikemia. Penelitian metaanalisis membuktikan bahwa 
+glukosa darah >200 mg/dL mengakibatkan peningkatan mortalitas

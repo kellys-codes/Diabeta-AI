@@ -1,16 +1,25 @@
--127- 
- Langkah 2: Tentukan target glukosa darah  
-1. Definisi hiperglikemia bila pemeriksaan glukosa darah sewaktu (darah 
-vena) ≥140 mg/dL , dan hipoglikem ia bila pemeriksaan glukosa darah 
-sewaktu (darah vena) <70 mg/d L 
-2. Waktu untuk memulai terapi bila glukosa darah persisten diatas 180 
-mg/dL 
-3. Rekomendasi target glukosa darah unit rawat intensif 140 -180 mg/dL  
-4. Panduan ini terutama diterapkan apabila pasien akan dirawat di unit 
-rawat intensif setidaknya 3 hari atau lebih  
-5. Untuk pasien yang diperkirakan akan dirawat kurang dari 3 hari, 
-hemodinamik stabil dan asupan oral baik, penanganan glukosa darah 
-diperlakukan sebagaimana penanganan di ruang rawat biasa  
-Langkah 3: Tentukan metode pemberian insulin  
-1. Obat antihiperglikemia oral (OHO) dan insulin subkutan tidak 
-dianjurkan terutama pada hari -hari pertama perawatan unit rawat
+adalah hipokalemia dan alkalosis metabolik.  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Gambar 6. Tata laksana Ketoasidosis dan status hiperglikemia  
+hiperosmolar   
+2. Sindrom koroner  akut 
+Sindrom koroner  akut (SKA) merupakan suatu kegawatan medis yang 
+diakibatkan penurunan perfusi jaringan jantung akibat penyempitan hingga penyumbatan arteri koroner. Pasien dengan SKA memberikan 
+gambaran klinis nyeri dada sebelah kiri yang menjalar ke area sekitar. 
+Klasifikasi SKA ditentukan berdasarkan gambaran EKG dan 
+pemeriksaan laboratorium, yaitu SKA dengan elevasi segmen ST 
+(STEMI) dan SKA tanpa peningkatan segmen ST (NSTEMI atau angina 
+pektoris tidak stabil) .  
+Konsensus penatalaksanaan SKA dengan elevasi segmen ST oleh 
+European Society of Cardiology  pada tahun 2012 menjelaskan bahwa 
+target glukosa darah pasien harus di bawah 200 mg/dL karena

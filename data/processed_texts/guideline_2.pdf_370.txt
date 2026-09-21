@@ -1,13 +1,15 @@
--130- 
- kecepatan insulin intravena disesuaikan dengan kadar glukosa darah. 
-Infus insulin harus dihentikan bila pasien mendapat do sis kurang dari 1 
-unit per jam atau pasien tidak mempunyai riwayat DM sebelumnya. Preparasi infus insulin intravena dilakukan dengan cara mencampur 50 U insulin regular atau insulin analog rapid acting  atau short acting  dengan 
-larutan NaCl 0,9% 50 mL dalam  disposible syringe 50 mL.   
-Algoritme ini tidak ditujukan untuk digunakan pada pasien DM tipe 
-1, ketoasidosis maupun status hiperosmolar hiperglikemia  
-1. Mulai insulin IV saat glukosa diatas nilai target. Insulin IV harus 
-dihentikan saat:  
-a. Pasien tidak mempunyai riwayat diabetes dan mendapat insulin <1 unit/jam  
-b. Pasien menerima dosis pertama insulin basal subkutan + 
-peralihan ke dosis prandial.  
-2. Dosis bolus i nisial dan kecepatan infus insulin inisial adalah nilai
+hipoglikemia meskipun pada pemeriksaan kadar glukosa darahnya  
+rendah.  Pasien dengan risiko  hipoglikemia  harus diperiksa mengenai 
+kemungkinan hipoglikemia simtomatik ataupun asimtomatik pada 
+setiap kesempatan. Hipoglikemia berat dapat disebabkan oleh 
+-139- 
+ beberapa faktor antara lain kendali glikemik terlalu  ketat, 
+hipoglikemia  berulang, hilangnya respons glukagon terhadap 
+hipoglikemia, attenuation  of epinephrine, norepinephrine, growth 
+hormone, cortisol responsses, neuropati  otonom, tidak menyadari  
+hipoglikemia, penyakit ginjal kronik stadium akhir/ end stage renal 
+disease (ESRD), penyakit atau gangguan fungsi  hati, malnutrisi, 
+konsumsi alkohol tanpa makanan yang  tepat.   
+Faktor -faktor yang dapat meningkatkan risiko dan menyebabkan 
+hipoglikemia adalah:  
+a. Penggunaan insulin atau obat pemacu sekresi insulin ( insulin

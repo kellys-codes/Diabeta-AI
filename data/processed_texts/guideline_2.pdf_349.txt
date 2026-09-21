@@ -1,22 +1,32 @@
-dirasakan. Mayoritas pasien DM tidak akan merasakan gejala sehingga 
-pemeriksaan fisis merupakan kunci dari diagnosis. Pemeriksaan fisis yang 
-mudah harus dilakukan pad a seluruh serabut saraf, dengan menggunakan  
-NDS, yang telah di validasi, memiliki reabilitas yang baik, dan mudah di 
-reproduksi. Pemeriksaan NDS terdiri dari pemeriksaan sensoris yaitu 
-sensasi nyeri ( pinprick), persepsi suhu (tongkat panas dan dingin) dan 
-vibrasi (garpu tala 128Hz), yang dinilai dengan normal (0), atau 
-menurun/hilang (1). Komplikasi dari diabetik neuropati adalah ulkus 
-diabetikum. Skor NDS > 6/10 merupakan faktor risiko untuk terjadinya ulkus diabetikum.   
-Tabel 26. Pengobatan Ny eri Neuropatik pada DM  
-Golongan  Nama obat  Dosis  Efek 
-samping 
-yang umum  Adverse 
-events  Interaksi 
-obat Awal Target 
-efektif  
-Antikon  
-vulsan  Prega  balin  25-
-75mg,  
-1-3x/hr  300-
-600mg/  
-hr Somnolen,
+sebanyak 2 kali atau penurunan glukosa >60 mg/dL dalam  1 
+jam. 
+Tabel 28. Protokol Insulin Infus Modifikasi Texas  
+Algoritme 1  Algoritme 2  Algoritme 3  Algoritme 4  
+GD Unit/j
+am GD Unit/j
+am GD Unit/j
+am GD Unit/ja
+m 
+Jika GD <70 mg/dL = hipoglikemia, lihat protokol hipoglikemia  
+<100  Off <100  Off <100  Off <100  Off 
+100-
+119 0,2 100-119 0,5 100-119 1 100-119 1,5 
+120-
+149 0,5 120-149 1 120-149 2 120-149 3 
+150-
+179 1 150-179 1,5 150-179 3 150-179 5 
+180-
+209 1,5 180-209 2 180-209 4 180-209 7 
+210-
+239 2 210-239 3 210-239 5 210-239 9 
+240-
+269 2 240-269 4 240-269 6 240-269 12 
+270-
+299 3 270-299 5 270-299 8 270-299 16 
+300-
+329 3 300-329 6 300-329 10 300-329 20 
+330-
+359 4 330-359 7 330-359 12 330-359 24 
+>360  4 >360  8 >360  14 >360  28 
+Penyesuaian algoritme untuk mencapai target setiap 6 jam  
+Protokol Insulin Infus Northwestern untuk pasien dewasa di ICU

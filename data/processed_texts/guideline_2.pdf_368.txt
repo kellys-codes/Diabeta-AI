@@ -1,16 +1,18 @@
-3. Setelah 15 menit pemberian bolus Dextrose 40% evaluasi ulang 
-glukosa darah  
-4. Sasaran penanganan hipoglikemia adalah glukosa darah >100 mg/dL dan gejala klinis akibat hipoglikemia hilang  
-5. Penghentian drip insulin dilakukan jika glukosa darah <100 mg/dL  
-Langkah 6: Hal -hal lain yang perlu diperhatikan  
-1. Nutrisi yaitu menyesuaikan pemberian nutrisi dengan strategi pemberian insulin:  
-a. Jika pasien dipuasa kan atau TPN: infus insulin intravena, titrasi 
-sesuai protokol modifikasi Texas  
-b. Pasien dengan enteral feeding :  
-1) Continous Feeding :  
-a) infus insulin intravena, titrasi sesuai protokol 
-modifikasi Texas, atau  
-b) diberikan bolus insulin basal long acting  subkutan 
-ditambah dosis koreksi sebelum bolus porsi besar  
-2) Cyclical Feeding : insulin basal long acting  subkutan 
-ditambah dosis koreksi di awal siklus enteral feeding.
+Langkah -langkah kontrol gula darah pada pasien sepsis:  
+a. Stabilisasi  
+b. Pasien dengan sepsis berat dan hiperglikemia dirawat ICU dan 
+diberikan terapi insulin intravena . Pemberian terapi insulin pada 
+pasien sepsis direkomendasikan setelah hasil pemantauan glukosa serum > 180 mg/dL sebanyak dua kali pemeriksaan 
+berturut -turut, dengan target mempertahankan kadar glukosa di 
+bawah 180 mg/dL.  
+c. Pasien yang menerima insulin intravena juga menerima sumber 
+glukosa  kalori  
+d. Memantau nilai glukosa darah setiap 1 -2 jam sampai kadar nilai 
+glukosa dan infus insulin stabil, dan dimonitor setiap 4 jam 
+setelah  itu.  
+Pertimbangan dalam mengontrol glukosa darah pada sepsis, antara 
+lain: 
+a. Kadar glukosa darah yang rendah pada tes point -of-care darah 
+kapiler harus diintepretasikan dengan hati -hati, karena 
+pengukuran tersebut melebihi darah arteri atau nilai plasma  
+glukosa

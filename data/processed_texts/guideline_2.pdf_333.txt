@@ -1,12 +1,14 @@
--117- 
- data tahun 2017 dari International Diabetes Federation (IDF) diperkirakan 
-prevalens diabetes sebesar 425 juta di  seluruh dunia dan diestimasikan 
-setengahnya mengidap neuropati diabetik.  Diabetes dapat menyerang 
-seluruh sistem saraf pusat maupun perifer dan  dipresentasikan dengan 
-gejala klinis yang bervariasi. Neuropati diabetik merupakan sekelompok 
-gejala klinis yang beragam pada sistem saraf dengan fitur anatomis, 
-manifestasi klinis, dan perjalanan penyakit yang berbeda. Patofisiologi dari 
-neuropati diabet ik merupakan konsekuensi dari hiperglikemia dan 
-mikroangiopati. Tipe yang paling sering ditemukan adalah distal symmetric sensorimotor polyneuropathy (DSPN) , tetapi kelainan serabut saraf lainnya 
-juga dapat ditemukan seperti disotonomia. Diagnosa yang cepa t disertai 
-penanganan yang tepat pada neuropati dapat membuat perbaikan gejala,
+European Federation of Neurology Societies, NICE= National Institute of 
+Clinical Excelence  
+  
+L. Diabetes dengan penyakit  kritis   
+Hiperglikemia sering terjadi pada penyakit kritis, bukan hanya pada 
+pasien diabetes tetapi dapat terjadi juga pada pasien yang tidak punya 
+riwayat DM sebelumnya ( stress hyperglycemia ). Data penelitian 
+menunjukkan bahwa hiperglikemia meningkatkan mortalitas dan 
+morbiditas sehingga perlu dikendalikan. Banyak faktor berperan terhadap 
+terjadinya hiperglikemia di unit rawat intensif, seperti adanya stres metabolik berat, nutri si enteral dan parenteral, serta obat -obatan yang 
+dapat meningkatkan glukosa darah dan sangat tergantung pada adanya 
+penyakit dasar diabetes melitus sebelumnya . 
+Glukosa darah yang direkomendasikan untuk pasien DM dengan 
+penyakit kritis tidak boleh melebihi  180 mg/dL  dan perlu dikontrol pada

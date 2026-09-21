@@ -1,17 +1,16 @@
--140- 
- sudah normal, pasien diminta untuk makan makanan berat atau 
-untuk mencegah berulangnya hipoglikemia.  
-Rekomendasi pengobatan hipoglikemi a berat:  
-a. Jika ada neuroglikopenia, terapi parenteral diperlukan Dekstrose 40% sebanyak 25 cc diikuti dengan infus dekstrosa 5% atau  
-dekstrosa 10%  
-b. Lakukan monitoring glukosa darah setiap 1 -2 jam, kalau terjadi 
-hipoglikemia berulang pemberian d ekstrose 40% dapat  diulang  
-c. Lakukan evaluasi terhadap pemicu hipoglikemia   
-Pencegahan  hipoglikemia:  
-a. Hentikan  obat-obatan kemudian kurangi  dosisnya  
-b. Obati penyakit  dasar  
-c. Waspada terhadap hipoglikemia pada pengguna insulin dan  
-insulin secretagogue  
-d. Pasien dengan ≥1 episode hipoglikemia berat akan lebih 
-bermanfaat jika target glikemiknya di longgarkan  
-e. Edukasi mengenai gejala, pengobatan, waktu puncak kerja
+c. Pada pasien diabetes yang berus ia <40 tahun namun memiliki 
+risiko untuk mengalami penyakit kardiovaskular aterosklerotik, 
+pertimbangkan pemberian terapi statin intesitas sedang 
+(moderat) selain perubahan gaya hidup. C  
+d. Pada pasien diabetes yang berusia 40- 75 tahun A dan >75 tahun 
+C tanpa  disertai penyakit kardiovaskular aterosklerotik, 
+pertimbangkan pemberian terapi statin intesitas sedang 
+(moderat) selain perubahan gaya hidup.  
+e. Pada pasien diabetes yang memiliki beberapa factor risiko 
+penyakit kardiovaskular aterosklerotik, diperyimbangkan untuk 
+pemberian terapi statin intensitas tinggi. C  
+-150- 
+ f. Pada pasien yang tidak dapat mentolerir dosis statin sesuai 
+dengan intensitasnya, maka dapat diberikan statin dengan dois 
+maksimal yang masih dapat. E  
+g. Pada pasien diabetes dengan penyakit kardiovaskular

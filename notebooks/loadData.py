@@ -28,17 +28,19 @@ def extract_n_chunks():
     # Make sure that the variable for storing the chunks exists
     os.makedirs(out_dir, exist_ok=True)
     for file in os.listdir(raw_dir):
-        if file.endswith(".pdf"): 
-            pdf_path = os.path.join(raw_dir, file) 
+        if file.endswith(".pdf"):
+            pdf_path = os.path.join(raw_dir, file)
             loader = PyPDFLoader(pdf_path)
-            docs = loader.load()
+            pages = loader.load()
 
-            chunks = txt_splitter.split_documents(docs)
+            full_text = "\n".join(page.page_content for page in pages)
+
+            chunks = txt_splitter.split_text(full_text)
             for a, chunk in enumerate(chunks):
-                chunk_file = os.path.join(out_dir, f"{file}_{a}.txt") 
+                chunk_file = os.path.join(out_dir, f"{file}_{a}.txt")
                 # Encode to format of utf-8
-                with open(chunk_file, "w", encoding="utf-8") as f: 
-                    f.write(chunk.page_content)
+                with open(chunk_file, "w", encoding="utf-8") as f:
+                    f.write(chunk)
 
 if __name__ == "__main__": 
     extract_n_chunks()

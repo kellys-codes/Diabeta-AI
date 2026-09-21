@@ -1,15 +1,19 @@
--60- 
- Fruktosamin dan GA meningkat pada kadar glukosa tinggi 
-yang abnormal seperti diabetes, dan karenanya dapat 
-digunakan untuk menilai kontrol glukosa dalam jangka 
-waktu pendek hingga menengah yaitu sekitar 14- 21 hari. 
-Hal ini berarti bahwa HbA1c memberikan informasi tentang 
-kontrol glikemik jangka panjang yaitu selama periode 2 -3 
-bulan, sedangkan pengukuran fruktosamin atau GA memberikan informasi tentang kontrol glukosa pada 2 
-minggu sebelumnya. Perbedaan penting dengan HbA1c 
-adalah tingkat glikasi nonenzimatik albumin, yang kira- kira 
-9 hingga 10 kali lipat lebih tinggi dari hemoglobin manusia.  
-Sebagai konsekuensi dari glikasi albumin yang lebih sensitif 
-dibandingkan dengan hemoglobin, maka kadar darah GA 
-menunjukkan fluktuasi yang lebih jelas daripada HbA1c, 
-sehingga memungkinkan deteksi dini perubahan kadar
+-65- 
+  
+Tabel 15 . Rekomendasi pemberian statin pada pasien diabetes  
+Usia Penyakit 
+kardiovaskular 
+aterosklerosis 
+(ASCVD)  Rekomendasi pemberian statin  
+<40 
+tahun  Tidak Ada  Tidak diberikan  
+Ada Diberikan statin dengan target LDL <70 mg/dL.  
+Bila LDL tetap >70 mg/dL meskipun sudah mendapat terapi statin 
+dosis maksimal yang dapat ditoleransi, pertimbangkan pemberian 
+terapi tambahan dengan ezetimibe.  
+>40 
+tahun  Tidak ada  Pemberian statin perlu dipertimbangkan bila terdapat faktor risiko 
+penyakit kardiovaskular aterosklerosis (LDL ≥100 mg/dL, hipertensi, merokok, penyakit ginjal kronis, albuminuria, dan riwayat keluarga menderita penyakit jantung aterosklerosis pada usia muda)  
+Ada Diberikan statin dengan target LDL <70 mg/dL.  
+Bila LDL tetap >70 mg/dL meskipun sudah mendapat terapi statin 
+dosis maksimal yang dapat ditoleransi, pertimbangkan pemberian

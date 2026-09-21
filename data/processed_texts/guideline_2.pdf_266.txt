@@ -1,12 +1,15 @@
-dicurigai demensia yaitu mengalami kehilangan dan penurunan memori, 
-dan gangguan dalam melakukan aktivitas dasar ( activity daily living ) dan 
-aktivitas kompleks ( instrumental  activity daily living ) untuk kehidupa n 
-sehari -hari. Penapisan tahunan untuk gangguan kognitif diindikasikan 
-untuk orang dewasa yang berusia 65 tahun, namun dapat dilakukan lebih 
-segera bila terdapat penurunan status klinis yang signifikan, termasuk 
-peningkatan kesulitan kegiatan perawatan dir i, seperti kesalahan dalam 
-menghitung dosis insulin, kesulitan menghitung karbohidrat, melewatkan 
-makan, melewatkan dosis insulin, dan kesulitan mengenali, mencegah, 
-atau mengobati hipoglikemia.  
-Orang lanjut usia berisiko lebih tinggi mengalami hipoglikemia karena 
-defisiensi insulin yang memerlukan terapi insulin dan insufisiensi ginjal
+<120 mg/dL. Target glik emik yang tidak dicapai dalam 1 -2 minggu dengan 
+terapi nutrisi dan aktivitas fisis, maka terapi farmakologis harus segera 
+dimulai.  
+1. Insulin dalam bentuk terapi injeksi basal- bolus dapat digunakan 
+sebagai terapi lini pertama  
+2. Pada pasien yang mendapat terapi insulin, pertahankan kadar 
+glukosa darah >70  mg/dL.  
+3. Insulin yang bekerja cepat baik insulin human (actrapid) maupun 
+insulin analog (aspart dan lispro) dapat digunakan untuk 
+menurunkan glukosa setelah makan .  
+4. Insulin kerja panjang  baik insulin  human (NPH) dan insulin analog 
+(detemir) dapat digunakan untuk menurunkan glukosa darah puasa . 
+5. Metformin dapat digunakan sebagai alternatif untuk insulin, namun, 
+harus diberikan penjelasan bahwa metformin dapat melintasi sawar -
+plasenta. Pemberian metformin hanya  dapat dilakukan bila setelah 2

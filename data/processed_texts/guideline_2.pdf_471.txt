@@ -1,17 +1,15 @@
--166-
-12.Infeksi kaki  berat seperti ulkus, selulitis, abses
-13.TB paru atau infeksi paru lainnya
-Indikasi rujukan dari PPK I ke PPK III bila pada pasien DM tipe 2 di PPK I 
-terdapat salah satu dari hal -hal sebagai berikut:  
-1.Diabetes dengan tanda  unstable  angina
-2.Hipoglikemia yang tidak teratasi dan tidak ada perbaikan setelah tata
-laksana medis.
-3.Komplikasi  akut seperti ketoasidosis, hiperglikemik hiperosmolar non -
-ketotik setelah diberikan tindakan awal
-4.Retinopati, nefropati diabetik atau komplikasi kronis lainya akibat diabetesyang tidak terkendali
-5.Setelah 3 bulan pengobatan dengan OAD tunggal maupun kombinasi
-terdapat GDP >80 mg/dL, GDPP >140mg/dL atau HbA1c >6.5 %
-6.Setelah mendapat pengobatan selama 3 bulan dengan OAD tunggal belum
-mencapai target
-7.Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi
-belum mencapai target
+101.  Harries AD, Lonnroth K, Baker MA, Barreto M, Billo N, Brostrom  R, et al. 
+Collaborative Framework for Care and Control of Tuberculosis and 
+Diabetes . World Health Organ ization. 2011.  
+102.  Geerlings S. Urinary tract infections in patients with diabetes mellitus: 
+Epidemiology,  pathogenesis  and treatment.  Int J Antimicrob  Agents . 
+2008;31S,  54-7 
+103.  Ludwig  E. Urinary  tract infections  in diabetes  mellitus. Orv Hetil. 2008;  
+149:597- 600 
+104.  Petit J, Bour  J, Galland -Jos C, Minello  A, Verges B, Guiguet M. Risk Factors 
+for diabetes mellitus and insulin resistance in chronic hepatitis C. J  
+Hepatol. 2001;35:279- 83. 
+105.  Calvet H, Yoshikawa T. Infections in Diabetes. Infect Dis Clin North Am . 
+2001;15:407- 20. 
+106.  Peleg A, Weerarathna  T, McCarthy J, Davis T. Common Infections in 
+Diabetes: Pathogenesis, management, and relationship to glycemic control.

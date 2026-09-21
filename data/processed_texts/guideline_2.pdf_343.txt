@@ -1,27 +1,18 @@
-terhadap posisi sendi.  
-Nilai hasil pemeriksaan:  
-1. Skor 0 : normal.  
-2. Skor 1 : defisit ringan atau sedang (kekuatan otot 3 -4, reflek dan 
-senso rik menurun.  
-3. Skor 2 : defisit berat (kekuatan otot 0 -2, reflek dan sensorik hilang).  
-Nilai maksimal adalah 16.  
-Kriteria diagnostik untuk neuropati bila didapatkan nilai >3 dari 16 nilai tersebut.  
-Tabel 24. Pemeriksaan, skrining, dan skoring  
-Pemeriksaan  Kelebihan  Kekurangan  Tipe saraf yang 
-dinilai  
-KHS Sensitif, spesifik, mudah di 
-reproduksi dan 
-terstandarisasi  
-Gold standard  Harus dilakukan oleh 
-operator berpengalaman  
-Hanya menilai serabut 
-saraf besar  Serabut saraf 
+c. Regimen basal -bolus: insulin basal long-acting  subkutan 
+ditambah fixed dose insulin prandial subkutan sebelum makan 
 besar  
-NDS Prediktor yang baik untuk 
-ulkus  Tidak dapat mendeteksi 
-gejala sub -klinis serabut 
-saraf besar  Serabut saraf 
-besar dan kecil  
-QST Mudah direproduksi dan 
-dapat diandalkan  Subyektif  Serabut saraf 
-besar dan kecil
+ 
+-129- 
+ Langkah 5: Penatalaksanaan hipoglikemia  
+1. Identifikasi pasien yang mempunyai risiko terjadi hipoglikemia 
+misalnya gangguan ginjal atau pasien dengan dialysis, gangguan hati, 
+malnutrisi, insufisiensi adrenal, asupan nutrisi tidak terjamin, 
+gangguan pasase saluran cerna  
+2. Apabila terjadi hipoglikemia, segera hentikan pemberian insulin dan 
+atasi hipoglikemia menggunakan dextrose 40% intravena bolus 
+melalui rumus 321:  
+a. Glukosa darah <30 mg/dL, bolus 75 mL (3 vial) dextrose 40  
+b. Glukosa d arah 30 -60 mg/dL, bolus 50 mL (2 vial) dextrose 40  
+c. Glukosa darah 60- 70 mg/dL, bolus 25 mL (1 vial) dextrose 40%,   
+3. Setelah 15 menit pemberian bolus Dextrose 40% evaluasi ulang 
+glukosa darah

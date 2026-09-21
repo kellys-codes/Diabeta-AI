@@ -1,15 +1,21 @@
-300-
-329 3 300-329 6 300-329 10 300-329 20 
-330-
-359 4 330-359 7 330-359 12 330-359 24 
->360  4 >360  8 >360  14 >360  28 
-Penyesuaian algoritme untuk mencapai target setiap 6 jam  
-Protokol Insulin Infus Northwestern untuk pasien dewasa di ICU  
-1. Mulai infus insulin jika GD >110 mg/dL  
-2. Titrasi infus insulin berdasarkan nilai glukosa darah dan perubahan 
-kecepatan infus insulin berdasarkan tabel 2 7 atau tabel 2 9. 
-Misalkan glukosa darah sebelumnya 100 mg/dL, dan glukosa saat 
-ini adalah 170 mg/dL. Karena kenaikan glukosa darahnya adalah 70 
-mg/dl, maka ikuti perintah pada kolom ke -2 sebelah kanan (“peningkatan 
-lebih dari 60 mg/dl”), sehingga kecepatan infus insulin dinaikkan 0,5 unit/jam dan bolus 2 unit. Pemeriksaa n glukosa darah berikutnya 1 jam 
-kemudian, dan titrasi kembali.
+insulin secretagogue  
+d. Pasien dengan ≥1 episode hipoglikemia berat akan lebih 
+bermanfaat jika target glikemiknya di longgarkan  
+e. Edukasi mengenai gejala, pengobatan, waktu puncak kerja 
+insulin dan obat oral lainnya, dan pengawasan gula darah di  
+rumah  
+f. Sesuaikan regimen obat dengan asupan makanan dan latihan  
+fisis: 
+g. Pasien yang menggunakan insulin: turunkan dosis insulin 
+prandial 1- 2 unit sebelum makan yang diikuti  latihan  
+h. Pasien  yang menggunakan insulin pump: turunkan basal rate 
+25-50% selama latihan  
+i. Pasien yang menggunakan sulfonilurea: tu runkan dosis, latihan 
+di pagi dan minum obat setelah latihan atau makan kudapan sebelum latihan.  
+Tabel 31 . Tanda dan g ejala hipoglikemia pada o rang dewasa  
+Otonom  Rasa lapar, berkeringat, 
+gelisah, paresthesia,  
+palpitasi, tremulousness  Pucat, 
+takikardia, 
+widened pulse-
+pressure

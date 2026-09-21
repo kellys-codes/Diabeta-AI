@@ -1,17 +1,18 @@
--122- 
- 1. Confirmed DPN: terdapat KHS abnormal dan adanya tanda ataupun 
-gejala neuropati  
-2. Probable DPN: terdapat 2 ata u lebih tanda atau gejala neuropati, 
-penurunan sensasi distal, atau penurunan/hilangnya refleks mata 
-kaki 
-3. Possible DPN: terdapat 1 dari tanda penurunan sensasi, gejala positif  
-seperti rasa terbakar, rasa ditusuk -tusuk atau rasa nyeri, terutama 
-pada jempol , jari kaki atau telapak kaki; atau tanda lain seperti 
-penurunan sensasi distal simetrik atau penurunan/hilangnya refleks 
-mata kaki  
-Skrining  
-Pasien dengan DM tipe 2 harus selalu dilakukan penilaian/skrining 
-setiap tahunnya. Pasien dengan prediabetes atau t oleransi glukosa 
-terganggu (TGT) harus dilakukan skrining jika ada salah satu gejala yang 
-dirasakan. Mayoritas pasien DM tidak akan merasakan gejala sehingga 
-pemeriksaan fisis merupakan kunci dari diagnosis. Pemeriksaan fisis yang
+1 atau untuk pasien yang menerima terapi kortikosteroid, atau 
+diabetes melitus yang sebelumnya mendapat >80 unit insulin per 
+hari di rawat jalan  
+c. Algoritme 3: untuk pasien yang tidak terkontrol dengan algoritme 
+2, untuk  memulai algoritme 3 sebaiknya lakukan konsultasi 
+dengan ahli endokrinologi  
+d. Algoritme 4: apabila pasien tidak terkontrol dengan algoritme 3, gunakan algoritme 4 dan untuk lakukan algoritme ini sebaiknya 
+di supervisi langsung oleh ahli endokrinologi.  
+4. Pindah  dari satu algoritme satu ke algoritme lainnya:  
+a. Naik ke algoritme selanjutnya bila nilai glukosa masih di luar 
+target setelah titrasi insulin  
+-131- 
+ b. Turun ke algoritme sebelumnya bila nilai glukosa <70 mg/dL 
+sebanyak 2 kali atau penurunan glukosa >60 mg/dL dalam  1 
+jam. 
+Tabel 28. Protokol Insulin Infus Modifikasi Texas  
+Algoritme 1  Algoritme 2  Algoritme 3  Algoritme 4  
+GD Unit/j

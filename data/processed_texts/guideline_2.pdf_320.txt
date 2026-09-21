@@ -1,12 +1,17 @@
-terutama pada malam dan pagi hari  
-3. Pasien dengan terapi steroid 1 kali sehari diberikan insulin basal 
-dimulai dengan dosi s 10 unit/hari dan dititrasi 10% -20% sesuai kadar 
-gula darah. Insulin basal paling baik diberikan pagi hari.  
-4. Pasien dengan terapi steroid lebih dari 1 kali sehari seperti hidrokortison IV atau deksametason oral dapat menyebabkan hiperglikemia sepanjang har i selama 24 jam. Regimen insulin basal  
-bolus atau basal plus koreksi atau insulin premixed  2-3 kali sehari 
-merupakan pilihan yang sesuai untuk mencapai target glukosa darah 
-pada kebanyakan pasien  
-5. Monitoring glukosa darah umumnya dilakukan 1 kali sehari 1 -2 jam 
-setelah makan siang atau makan malam, namun jika GD belum 
-terkontrol atau ≥ 200 mg/dL, maka pemeriksaan GD dapat dilakukan 4 kali sehari.  
-Tabel 21. Petunjuk Monitoring Glukosa Darah dengan Pemakaian Steroid
+Sistem skoring DNE yang sensitif dan telah divalidasi dalam bahasa 
+Indonesia ini dapat dilakukan secara cepat dan mudah di praktek klinik. 
+Penilaian ini terdiri dari:  
+1. Kekuatan otot: pada otot quadrisep femoris dengan melakukan 
+ekstensi sendi lutut dan tibialis anterior dengan melakukan 
+dorsofleksi kaki  
+2. Refleks fisiologi: pada otot triseps surae atau tendon achiles.  
+3. Sensibiltas jari telunjuk tangan: menilai sensitivitas terhadap tusukan 
+jarum.  
+4. Sensibilitas ibu jari kaki: menilai sensitivitas terhadap tusukan jarum, sentuhan, persepsi getar dengan garpu tala 128 Hz, dan sensitifitas 
+terhadap posisi sendi.  
+Nilai hasil pemeriksaan:  
+1. Skor 0 : normal.  
+2. Skor 1 : defisit ringan atau sedang (kekuatan otot 3 -4, reflek dan 
+senso rik menurun.  
+3. Skor 2 : defisit berat (kekuatan otot 0 -2, reflek dan sensorik hilang).  
+Nilai maksimal adalah 16.

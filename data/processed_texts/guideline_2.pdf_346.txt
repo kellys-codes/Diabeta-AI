@@ -1,24 +1,13 @@
-diandalkan  Subyektif  II, III,IV  Serabut 
-saraf besar 
-dan kecil  
-CCM Cepat, mudah 
-direproduksi, dan 
-tidak invasif.  
-Dapat mendeteksi 
-gangguan atau kerusakan serabut 
-saraf kecil dan dapat 
-menilai progresivitas 
-penyakit.  Harus dilakukan oleh 
-operator 
-berpengalaman  
- III,IV Serabut 
-saraf kecil  
-Skor diabetic neuropathy symptom (DNS)  
- Skor DNS terdiri dari 4 poin penilaian untuk gejala. Skor ini 
-memiliki prediksi nilai yang tinggi untuk menyaring polineuropati pada 
-diabetes. Gejala  jalan tidak stabil, nyeri neuropatik, parestesi atau rasa 
-tebal. Satu gejala dinilai 1, maksimum nilai adalah 4. Nilai 1 atau lebih 
-berarti sebagai positif polineuropati diabetika.  
-Pemeriksaan elektrodiagnostik ( electrodiagnostic studies)  
- Pemeriksaan elektrodiagnostik terdiri dari beberapa jenis 
-pemeriksaan, seperti kecepatan hantar syaraf (KHS) motorik dan sensorik,
+-130- 
+ kecepatan insulin intravena disesuaikan dengan kadar glukosa darah. 
+Infus insulin harus dihentikan bila pasien mendapat do sis kurang dari 1 
+unit per jam atau pasien tidak mempunyai riwayat DM sebelumnya. Preparasi infus insulin intravena dilakukan dengan cara mencampur 50 U insulin regular atau insulin analog rapid acting  atau short acting  dengan 
+larutan NaCl 0,9% 50 mL dalam  disposible syringe 50 mL.   
+Algoritme ini tidak ditujukan untuk digunakan pada pasien DM tipe 
+1, ketoasidosis maupun status hiperosmolar hiperglikemia  
+1. Mulai insulin IV saat glukosa diatas nilai target. Insulin IV harus 
+dihentikan saat:  
+a. Pasien tidak mempunyai riwayat diabetes dan mendapat insulin <1 unit/jam  
+b. Pasien menerima dosis pertama insulin basal subkutan + 
+peralihan ke dosis prandial.  
+2. Dosis bolus i nisial dan kecepatan infus insulin inisial adalah nilai

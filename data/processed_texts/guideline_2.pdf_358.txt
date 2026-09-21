@@ -1,12 +1,13 @@
--126- 
- diperhatikan r isiko hipoglikemia . Kejadian hipoglikemia (glukosa darah <70 
-mg/dL) ha rus dihindari melalui pemantauan kadar glukosa darah secara 
-berulang. Pemantauan kadar glukosa darah dapat menggunakan darah 
-kapiler tetapi dalam keadaan tertentu seperti syok, hipotermi, atau penggunaan vasopresor sebaiknya menggunakan darah vena atau art eri. 
-Lakukan pemeriksaan HbA1c pada kasus hiperglikemia dimana 
-sebelumnya mempunyai riwayat DM yang belum diperiksa dalam 3 bulan 
-terakhir atau hiperglikemia yang menetap tanpa riwayat DM. Hindari 
-pemeriksaan HbA1c pada pasien anemia atau sedang menerima t ransfusi 
-darah masif.  
-Pada hampir seluruh kondisi klinis pasien di rawat inap, terapi insulin 
-merupakan pilihan utama dalam kontrol glikemik. Pada pasien yang dirawat di ICU, pemberian insulin intravena  umumnya lebih menjadi
+U/jam bila kadar glukosa < 250 mg/dL  (0,05- 0,1U/kg  BB/jam), 
+atau keadaan klinis membaik dengan cepat  dan kadar glukosa 
+turun > 75 mg/dL/jam . Kadar glukosa darah dipertahankan 140 -
+180 mg/dL . Bila kadar glukosa darah < 60  mg/dL hentikan infus 
+insulin paling lama 1 jam, kemudian lanjutkan infus  insulin . Bila 
+kadar glukosa darah selalu < 100  mg/dL, ganti infus dengan 
+dekstrosa 10% untuk mempertahankan kadar glukosa 140- 180 
+mg/dL. Bila pasien su dah dapat makan pertimbangkan 
+pemberian insulin subkutan . Infus i nsuli n intravena jangan dulu 
+dihentikan pada saat insulin subkutan mulai diberikan, tetapi 
+lanjutkan insulin intravena selama  1-2 jam . Pada pasien yang 
+sebelumnya telah mendapat insulin dan glukosa darahnya terkendali kembalikan seperti dosis awal  insulin . Pada pasien 
+yang sebelumnya tidak mendapat insulin berikan dosis subkutan

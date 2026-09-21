@@ -1,20 +1,15 @@
--155- 
- 8. Nefropati diabetik  
-a. Penyaringan  
-Pemeriksaan albumin dalam urin (rasio albumin kreatinin urin) 
-dan laju filtrasi glomer ulus disarankan untuk dilakukan setiap 
-tahun pada pasien DM tipe 2. B  
-b. Pengobatan  
-1) Mengoptimalkan kontrol glukosa darah untuk mengurangi 
-risiko atau memperlambat terjadinya penyakit ginjal kronis. A 
-2) Pada pasien DM tipe 2 dengan penyakit ginjal kronis, 
-pertim bangkan untuk menggunakan obat antidiabetes 
-golongan SGLT -2 inhibitor dan atau agonis reseptor GLP -1. 
-C 
-3) Mengoptimalkan kontrol tekanan darah untuk mengurangi 
-risiko atau memperlambat terjadinya penyakit ginjal kronis. A 
-4) Pada pasien penyakit ginjal kronis y ang belum dilakukan 
-dialisis, asupan protein harus sekitar 0,8 g/kg berat badan 
-per hari, namun pada pasien penyakit ginjal kronis yang 
-sudah dilakukan dialisis, asupan protein dapat lebih 
-ditingkatkan
+3. Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi 
+sudah mencapai target  
+4. Komplikasi kronis akibat diabetes telah terkendali  
+5. Diabetes gestational  dengan glukosa darah yang terkontrol  
+6. Hipoglikemia yang telah teratasi  
+7. Infeksi kaki seperti ulkus atau selulitis yang sudah teratasi dan glukosa darah telah terkontrol  
+-168- 
+ 
+Indikasi rujuk balik dari PPK III ke PPK I untuk untuk mendapatkan pelayanan 
+kesehatan kedokteran dasar atau melanjutkan saran dari pemberi pelayanan 
+kesehatan perujuk, apabila terdapat salah satu dari hal -hal sebagai berikut:  
+1. Setelah 3 bulan terdapat GDP < 80 mg/dL, GDPP < 140mg/dL atau HbA1c < 6.5 %  
+2. Setelah mendapat pengobatan selama 3 bul an dengan OAD tunggal sudah 
+mencapai target  
+3. Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi sudah mencapai target

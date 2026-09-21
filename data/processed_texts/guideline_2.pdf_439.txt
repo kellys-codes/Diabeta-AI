@@ -1,18 +1,15 @@
--154- 
- 1) Pasien DM tipe 2 harus dilakukan pemeriksaan mata yang 
-komprehensif oleh dokter spesialis mata pada saat diagnosis 
-diabetes ditegakkan. B  
-2) Jika tidak terdapat retinopati diabetik dan glukosa darah 
-terkontrol dengan baik, maka pemeriksaan ulangan dapat 
-dilakukan setiap 1- 2 tahun. B  
-3) Jika terdapat retinopati diabetik, maka pemeriksaan harus diulang oleh dokter spesialis mata setiap tahun. B  
-4) Jika terdapat retinopati yang progresif atau keadaan yang 
-dapat mengancam penglihatan, maka pemeriksaan harus 
-dilakukan lebih sering. B  
-5) Program telemedicine dengan menggunakan fotografi retina 
-yang telah divalidasi, kemudian dibaca oleh dokter spesialis 
-mata, dapat menjadi strategi penyaringan untuk retinopati 
-diabetik. B  
-6) Wanita dengan DM tipe 2 yang sedang hamil harus 
-mendapatkan edukasi tentang risiko terjadinya retinopati 
-diabetik saat hamil. B
+hari
+Indikasi rujukan dari PPK II ke PPK III bila pada pasien DM tipe 2 di PPK II 
+terdapat salah satu hal hal sebagai berikut:  
+1.Diabetes dengan tanda  unstable  angina
+2.Hipoglikemia yang tidak teratasi dan tidak ada perbaikan setelah tata
+laksana medis
+3.Komplikasi  akut seperti ketoasidosis, hiperglikemik hiperosmolar non -
+ketoti k setelah diberikan tindakan awal
+4.Setelah 3 bulan pengobatan dengan OAD tunggal maupun kombinasiterdapat GDP > 80 mg/dL, GDPP > 140mg/dL atau HbA1c > 6.5 %
+5.Setelah mendapat pengobatan selama 3 bulan dengan OAD tunggal belummencapai target
+6.Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasibelum mencapai target
+7.Komplikasi kronis akibat diabetes seperti retinopati, nefropati,
+-167- 
+ 8. Dislipidemia, hipertensi, anemia, infeksi  tidak terkendali dalam 3 bulan   
+9. Kehamilan dengan gula darah tak terkontrol dalam 3 bulan

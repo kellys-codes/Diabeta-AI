@@ -1,19 +1,17 @@
--45- 
- Apabila sas aran glukosa darah basal (puasa) telah 
-tercapai, sedangkan HbA1c belum mencapai 
-target, maka dilakukan pengendalian glukosa 
-darah prandial ( meal -related ). Insulin yang 
-dipergunakan untuk mencapai sasaran glukosa 
-darah prandial adalah insulin kerja pendek ( short 
-acting ) yang disuntikkan 30 menit sebelum makan, 
-insulin kerja cepat (rapid acting ) dan insulin kerja 
-sangat cepat ( ultra-fast acting ) yang disuntikan 5 -  
-10 menit sebelum makan atau insulin campuran 
-(premix  insulin dan co -formulation  insulin).  
-Dosis insulin prandial disesuaikan dengan kadar 
-glukosa  darah, waktu pemberian makan dan 
-konsumsi karbohidrat. Dosis awal umumnya 4 
-unit atau 10% dari dosis basal, yang diberikan 
-setiap sebelum makan. Penyesuaian dosis dilakukan setiap 3- 4 hari dengan mena mbahkan 
-atau mengurangi 1 -2 unit atau 10 -15% dari dosis 
-sebelumnya .
+dengan agonis reseptor GLP -1 mengalami peningkatan 
+1,4-6,2 kali . Dosis liraglu tide dimulai 0,6 mg dan 
+dinaikkan menjadi 1,2 mg setelah 1 minggu kemudian, selanjutnya dapat mencapai dosis 1,8 mg sesuai 
+toleransi pasien untuk mencapai kendali glikemik yang 
+-49- 
+ optimal . 
+Penelitian pada binatang tikus mendapatkan kejadian 
+kanker tiroid medular pada penggunaan albiglutide, 
+dulaglutide, exenatide  extended -release dan liraglutide, 
+namun kejadian ini belum terbukti pada manusia. Oleh 
+karena itu obat ini dikontraindikasikan pada pasien 
+dengan riwayat penyakit atau riwayat keluarga 
+mend erita penyakit multiple endocrine neoplasia  tipe 2 
+atau kanker tiroid medular. Risiko kejadian 
+pankreatitis juga perlu diperhatikan pada pemakaian 
+agonis reseptor  GLP-1 seperti halnya  yang dapat terjadi 
+pada penggunaan  golongan DPP -4 inhibitor.

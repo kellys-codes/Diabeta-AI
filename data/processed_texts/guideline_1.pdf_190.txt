@@ -1,4 +1,1 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI   39 
-Perkumpulan Endokrinologi Indonesia  
- - ↓ komplikasi mikrovaskuler (UKPDS)   D. Prinsip Terapi Inisiasi, Optimisasi dan Intensifikasi Insulin     Terapi inisiasi insulin dapat diberikan pada pasien DM baru dengan ciri gejala atau tanda dekompensasi metabolik atau pasien DM lama dengan kombinasi OHO namun tidak terkontrol. Algoritma terapi inisiasi, optimisasi dan intensifikasi insulin dapat dilihat pada gambar 4.
+. Basal plus dengan optimisasi dosis hingga 0,5 unit/kgbb/hari 3. Basal bolus dengan optimisasi dosis hingga mencapai target.  Terapi Intensifikasi Pada kelompok Co-formulation atau FRC : penyesuaian terapi intensifikasi sesuai dengan penjelasan pada gambar 3A  Pada kelompok basal plus : jika target kontrol glikemik belum tercapai maka dapat ditingkatkan menjadi basal plus 1 Æ plus 2 Æ plus 3 (atau basal bolus)

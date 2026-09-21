@@ -1,16 +1,29 @@
--48- 
- perantara sinyal neural seperti saraf adrenergik dan 
-kolinergik. Pada pasien DM tipe 2 stimulasi sekresi 
-insulin oleh GLP -1 dan GIP mengalami  penurunan. 
-Hormo n GLP -1 naive mempunyai keterbatasan 
-kegunaan karena waktu paruhnya hanya 1 -2 menit 
-pada orang sehat dan pasien diabetes, karena GLP -1 
-dan GIP akan dipecah oleh enzim DPP -4 yang 
-terekspresikan di hampir seluruh jaringan tubuh . 
-Golongan obat yang termasuk agonis reseptor GLP -1 ini 
-memiliki mekanisme kerja meningkatkan sekresi 
-insulin dan menurunkan sekresi glukagon, sehingga 
-dapat menurunkan HbA1c dengan cara menurunkan glukosa darah setelah makan. Sediaan obat yang termasuk dalam golongan ini beru pa injeksi yang dapat 
-disuntikkan 1- 2 kali sehari atau 1 kali seminggu. 
-Beberapa golongan obat agonis reseptor GLP -1 yang 
-sudah banyak digunakan adalah liraglutide (disuntik
+adalah agonis reseptor  GLP-1 yang menghambat 
+pelepasan glu kagon, dengan waktu paruh 2 -4 jam.  
+Pemberian IGlarLixi juga cukup sekali sehari, 
+umumnya saat pagi hari.  Dosis a wal umumnya 
+diberikan 15 unit yang berarti 15 unit glargine dan 5 mcg lixisenatide, namun pada pasien yang sebelumnya 
+tidak terkontrol dengan 30 -60 unit insulin basal maka 
+dosis awal dapat diberikan 30 unit yang berarti 30 unit glargine dan 10 mcg lixisena tide. Dosis maksimal 60 
+unit, yang berarti 60 unit glargine dan 20 mcg lixisenatide. Pengaturan dosis dilakukan sekali 
+seminggu, disesuaikan dengan kadar glukosa darah sebelum sarapan  
+Algoritma intensifikasi terapi injeksi pada DM tipe 2  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+-52- 
+  
+Gambar 2. Algoritma intensifikasi terapi injeksi pada DM tipe 2  
+3) Terapi kombinasi  
+Pemberian obat antihiperglikemia oral maupun insulin

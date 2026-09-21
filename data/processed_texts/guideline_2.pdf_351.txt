@@ -1,56 +1,38 @@
--123- 
- benzodiaze
-pin, 
-alcohol, 
-atau opioid  
-Gabapentin  100-
-300mg,  
-1-3x/hr  900-
-3600mg/hr Somnolen, 
-pusing, ataxia, kelelahan  Sindroma 
-Steven -
-Johnson, keinginan 
-bunuh diri, 
-kejang 
-setelah penarikan 
-obat  
-Antidepresan  
-SSRI  Duloxetine  
-  20-
-30mg/hr 
- 60-
-120mg/hr Mual, 
-somnolen, pusing, konstipasi, 
-diare, 
-anoreksia, nyeri kepala, insomnia, 
-kelelahan  Sindroma 
-Steven -
-Johnson, 
-hepatotoksi
-kkrisis 
-hipertensi, perdarahan saluran 
-cerna, 
-delirium, infark miokard, 
-glaukoma  Hindari 
-penggunaa
-n dengan MAO-
-inhibitor karena dapat meningkata
-n sindroma 
-serotonin. Kombinasi dengan 
-tramadol 
-dapat menurunkan ambang 
-kejang.  
-Hindari 
-penggunaan dengan 
-ciprofloksa
-sin 
- venlafaxine  37,5mg/
-hr 75-
-225mg/
-hr Mual, 
-somnolen, pusing, 
-konstipasi, diare, anoreksia, 
-nyeri kepala, 
-diaphoresis, insomnia, libido 
-menurun  Sama 
-dengan duloxetine  Hindari
+kemudian, dan titrasi kembali.  
+ 
+ 
+ 
+ 
+-132- 
+ Tabel 29. Protokol Insulin Infus Modifikasi Northwestern  
+Nilai glukosa darah 
+inisial  Dosis bolus inisial  
+(unit)  Kecepatan infus  
+(unit/jam)  
+110-180 2 2 
+181-240 3 3 
+241-300 4 4 
+301-360 5 5 
+361-420 6 6 
+421-480 7 7 
+Tabel 30. Protokol Insulin Infus Modifikasi Northwern jika GD naik  
+Nilai 
+glukosa 
+darah saat 
+ini Bolus 
+insulin  Perubahan dari glukosa darah sebelumnya  
+terjadi peningkatan  
+Peningkatan <60 mg/dL  Peningkatan >60 mg/dL  
+80-110 tidak 
+dibolus  kecepatan infus tetap  kecepatan infus tetap  
+111-180 2 infus insulin tambah 0,3 
+unit/jam  infus insulin tambah 0,5 
+unit/jam  
+181-240 3 infus insulin tambah 0,8 
+unit/jam  infus insulin tambah 1 
+unit/jam  
+241-300 4 infus insulin tambah 1 
+unit/jam  infus insulin tambah 1,2 
+unit/jam  
+301-360 5 infus insulin tambah 1,5 
+unit/jam  infus insulin tambah 1,8

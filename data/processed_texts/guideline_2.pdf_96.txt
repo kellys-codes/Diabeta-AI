@@ -1,21 +1,18 @@
-peningkatan sekresi insul in fase pertama. 
-Golongan ini terdiri dari 2 macam obat yaitu 
-repaglinid (derivat asam benzoat) dan nateglinid 
-(derivat fenilalanin). Metabolisme utama glinid 
-terjadi di dalam hati dengan enzim CYP 3YP3A4 
-dan enzim CYP2C9. Obat ini diabsorbsi dengan 
-cepat setelah pemberian secara oral dan diekskresi 
-secara cepat melalui hati. Efikasi penurunan 
-HbA1c dapat mencapai 0.5- 1%, dan mampu 
-menurunkan glukosa darah puasa maupun 
-prandial. 
-Efek samping yang dapat terjadi adalah 
-hipoglikemia. Obat dihentikan bila LFG kurang 
-dari 30 m L/menit.  
-c) Penghambat  absorpsi glukosa: inhibitor alfa 
-glukosidase 
-Golongan inhibitor alfa glukosidase bekerja dengan cara 
-memperlambat absorpsi karbohidrat pada saluran 
-cerna, sehingga bermanfaat untuk menurunkan 
-glukosa darah setelah m akan. Contoh obat golongan ini 
-adalah acarbose dan voglibose. Efikasi penurunan
+ini juga tidak terlalu tinggi dalam menurunkan HbA1c 
+yaitu sekitar 0.5 -0,9% dan relatif lebih mahal 
+dibandingkan dengan obat antidiabetik lainnya.  
+e) Penghambat sodium glucose co-transporter  2 (SGLT -2) 
+Sodium  glucose co- transporter  2 (SGLT -2 inhibitor)  
+adalah protein pada manusia yang memfasilitasi 
+reabsorpsi glukosa dalam ginjal. Cara kerja obat 
+inhibitor SGLT -2 adalah menghambat reabsorpsi 
+glukosa di tubulus proksimal dan meningka tkan 
+ekskresi glukosa melalui urin sehingga kadar glukosa 
+darah akan menurun. Obat di kelas inhibitor SGLT -2 
+termasuk empagliflozin, dapagliflozin, canagliflozin dan 
+ipragliflozin.   
+Penurunan HbA1c pada pemberian SGLT -2 inhibitor 
+0,5-0,9%.   
+Obat golongan ini mempunyai manfaat juga untuk 
+menurunkan berat badan 0,7 – 3,5 kg, sehingga banyak 
+digunakan pada pasien DM tipe 2 dengan berat badan

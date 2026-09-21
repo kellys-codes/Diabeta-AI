@@ -1,11 +1,17 @@
-1 atau untuk pasien yang menerima terapi kortikosteroid, atau 
-diabetes melitus yang sebelumnya mendapat >80 unit insulin per 
-hari di rawat jalan  
-c. Algoritme 3: untuk pasien yang tidak terkontrol dengan algoritme 
-2, untuk  memulai algoritme 3 sebaiknya lakukan konsultasi 
-dengan ahli endokrinologi  
-d. Algoritme 4: apabila pasien tidak terkontrol dengan algoritme 3, gunakan algoritme 4 dan untuk lakukan algoritme ini sebaiknya 
-di supervisi langsung oleh ahli endokrinologi.  
-4. Pindah  dari satu algoritme satu ke algoritme lainnya:  
-a. Naik ke algoritme selanjutnya bila nilai glukosa masih di luar 
-target setelah titrasi insulin
+Rekomendasi pengobatan hipoglikemia:  
+a. Pemberian konsumsi makanan tinggi gula (karbohidrat  
+sederhana)  
+b. Gula murni merupakan pilihan utama, namun bentuk 
+karbohidrat lain yang berisi glukosa akan efektif menaikkan gula 
+darah.   
+c. Makanan yang mengandung lemak dapat memperlambat respons 
+kenaikan gula darah.  
+d. Glukosa 15 -20 gram (2 -3 sendok makan) yang dilarutkan dalam 
+air adalah terapi pilihan pada pasien sadar dengan hipoglikemia  
+e. Jika pada monitoring glukosa darah mandiri setelah 15 menit setela h pengobatan hipoglikemia masih ada, pengobatan 
+dilanjutkan.  
+f. Jika pada monitoring glukosa darah mandiri, kadar glukosa 
+-140- 
+ sudah normal, pasien diminta untuk makan makanan berat atau 
+untuk mencegah berulangnya hipoglikemia.  
+Rekomendasi pengobatan hipoglikemi a berat:

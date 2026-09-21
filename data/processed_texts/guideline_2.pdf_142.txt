@@ -1,17 +1,18 @@
--54- 
-  
-        Gambar 3. Algoritme pengelolaan DM Tipe 2 yang baru terdiagnosis  
-Penjelasan untuk algoritma pengelolaan DM tipe 2  
-a) Untuk pasien DM tipe 2 dengan HbA1c saat diperiksa < 7,5% 
-maka pengobatan dimulai dengan modifikasi gaya hidup 
-sehat dan monoterapi oral.  
-b) Untuk pasie n  D M  t i p e  2  d e n g a n  H b A 1 c  s a a t  d i p e r i k s a  ≥  
-7,5%, atau pasien yang sudah mendapatkan monoterapi 
-dalam waktu 3 bulan namun tidak bisa mencapai target 
-HbA1c < 7%, maka dimulai terapi kombinasi 2 macam obat 
-yang terdiri dari metformin ditambah dengan obat lain yang 
-memiliki mekanisme kerja berbeda. Bila terdapat intoleransi 
-terhadap metformin, maka diberikan obat lain seperti tabel 
-lini pertama yang ditambah dengan obat lain dengan 
-mekanisme kerja yang berbeda.  
-c) Kombinasi 3 obat perlu diberikan bila pasien sudah
+2 harus dipantau secara terencana dengan melakukan 
+anamnesis, pemeriksaan jasmani, dan pemeriksaan penunjang. 
+Pemeriksaan yang dapat dilakukan adalah:  
+1) Pemeriksaan kadar glukosa darah  
+Tujuan pemeriksaan glukosa  darah:  
+a) Mengetahui apakah sasaran terapi telah  tercapai  
+b) Melakukan penyesuaian dosis obat, bila belum tercapai 
+sasaran  terapi  
+Waktu pelaksanaan pemeriksaan gula darah:  
+a) Pemeriksaan kadar glukosa darah  puasa  
+b) Glukosa 2 jam setelah makan,  atau 
+c) Glukosa darah pada waktu yang lain secara berkala sesuai dengan kebutuhan.  
+2) Pemeriksaan  HbA1 c  
+Strategi diagnostik dan prognostik pada diabetes saat ini 
+didasarkan pada dua tes historis, yaitu glukosa plasma atau 
+kapiler dan glikohemoglobin. Tes hemoglobin terglikosilasi, 
+yang disebut juga sebagai glikohemoglobin, atau hemoglobin 
+glikosilasi (dising kat sebagai HbA1C), merupakan cara yang
