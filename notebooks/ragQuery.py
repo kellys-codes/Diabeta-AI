@@ -1,7 +1,7 @@
 import os
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
-from langchain_community.embeddings import FastEmbedEmbeddings
+from langchain_community.embeddings import CohereEmbeddings
 from dotenv import load_dotenv
 
 # What step this codefile covers:
@@ -17,11 +17,15 @@ env_path = os.path.join(base_dir, ".env")
 load_dotenv(dotenv_path=env_path)
 
 groq_api_key = os.getenv("GROQ_API_KEY")
+cohere_api_key = os.getenv("COHERE_API_KEY")
 
 if not groq_api_key:
     raise ValueError("CRITICAL ERROR: GROQ_API_KEY not found. Please add it to your .env file.")
 
-embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+if not cohere_api_key:
+    raise ValueError("CRITICAL ERROR: COHERE_API_KEY not found. Please add it to your .env file.")
+
+embeddings = CohereEmbeddings(cohere_api_key=cohere_api_key, model="embed-multilingual-v3.0")
 
 # Absolute path targeting so it doesn't act blind
 vector_db_path = os.path.join(base_dir, "vector_db")

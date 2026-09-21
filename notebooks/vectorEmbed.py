@@ -1,5 +1,6 @@
 import os
-from langchain_community.embeddings import FastEmbedEmbeddings
+import time
+from langchain_community.embeddings import CohereEmbeddings
 from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 
@@ -11,6 +12,11 @@ from dotenv import load_dotenv
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 env_path = os.path.join(base_dir, ".env")
 load_dotenv(dotenv_path=env_path)
+
+cohere_api_key = os.getenv("COHERE_API_KEY")
+
+if not cohere_api_key:
+    raise ValueError("CRITICAL ERROR: COHERE_API_KEY not found. Please add it to your .env file.")
 
 # use absolute path tracking instead of looking at text directory
 processed_dir = os.path.join(base_dir, "data", "processed_texts")
@@ -34,13 +40,24 @@ def build_vector_db():
         return
 
     # convert texts to vector embeddings
-    embeddings = FastEmbedEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+    embeddings = CohereEmbeddings(cohere_api_key=cohere_api_key, model="embed-multilingual-v3.0")
 
     # do FAISS (Facebook AI Similarity Search)
     '''What FAISS does:
     1) plots vectors into a large, multi-dim mathematical storage map
     2) performs the "nearest neighbor" similarity search between chunks'''
-    database = FAISS.from_texts(texts=texts, embedding=embeddings, metadatas=metadatas) 
+
+    batch_size = 40
+    database = None
+    for i in range(0, len(texts), batch_size):
+        batch_texts = texts[i:i + batch_size]
+        batch_metadatas = metadatas[i:i + batch_size]
+        if database is None:
+            database = FAISS.from_texts(texts=batch_texts, embedding=embeddings, metadatas=batch_metadatas)
+        else:
+            database.add_texts(texts=batch_texts, metadatas=batch_metadatas)
+        print(f"Embedded {min(i + batch_size, len(texts))}/{len(texts)} chunks")
+        time.sleep(10)
 
     output_db_path = os.path.join(base_dir, "vector_db")
     # Save locally so future runs can load it quickly 
