@@ -1,7 +1,5 @@
 import os
 from dotenv import load_dotenv
-from notebooks.vectorEmbed import build_vector_db
-from notebooks.loadData import extract_n_chunks
 
 if not os.path.exists("vector_db"):
     raise FileNotFoundError("ERROR: vector_db was not built during the Docker image phase!")
